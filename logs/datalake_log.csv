@@ -1,0 +1,31 @@
+
+2026-05-31 09:12:31,INFO,INGESTA_RAW,—,Revisión landing,Info,Carpeta vacía
+2026-05-31 09:13:29,INFO,INGESTA_RAW,Employee.csv,Movido a raw/csv,Éxito,Employee.csv
+2026-05-31 09:14:50,INFO,LIMPIEZA_RAW,Employee.csv,Limpieza y guardado,Éxito,Filas antes=4653 | Filas después=2764 | Duplicados eliminados=1889 | Nulos restantes=0
+2026-05-31 09:19:36,INFO,INGESTA_RAW,Proyecto de Software Primer Parcial.docx,Rechazado,Warning,Extensión no permitida: .docx
+2026-05-31 09:24:18,INFO,INGESTA_RAW,Messy_Employee_dataset.csv,Movido a raw/csv,Éxito,Messy_Employee_dataset.csv
+2026-05-31 09:24:29,INFO,LIMPIEZA_RAW,Messy_Employee_dataset.csv,Limpieza y guardado,Éxito,Filas antes=1020 | Filas después=1020 | Duplicados eliminados=0 | Nulos restantes=235
+2026-05-31 09:30:13,INFO,INGESTA_RAW,Messy_Employee_dataset.csv,Movido a raw/csv,Éxito,Messy_Employee_dataset.csv
+2026-05-31 09:30:31,INFO,LIMPIEZA_RAW,Messy_Employee_dataset.csv,Limpieza y guardado,Éxito,Filas antes=1020 | Filas después=1020 | Duplicados eliminados=0 | Celdas reemplazadas con N/A=235
+2026-05-31 09:47:43,INFO,INGESTA_RAW,Messy_Employee_dataset.csv,Movido a raw/csv,Éxito,Messy_Employee_dataset.csv
+2026-05-31 09:47:55,INFO,LIMPIEZA_RAW,Messy_Employee_dataset.csv,Limpieza y guardado,Éxito,Filas antes=1020 | Filas después=1020 | Duplicados eliminados=0 | Celdas reemplazadas con N/A=235
+2026-05-31 10:05:47,INFO,INGESTA_RAW,empleados_raw.json,Movido a raw/json,Éxito,empleados_raw.json
+2026-05-31 10:05:47,INFO,INGESTA_RAW,manual.docx,Rechazado,Warning,Extensión no permitida: .docx
+2026-05-31 10:05:47,INFO,INGESTA_RAW,messy_ecommerce_sales_data.xlsx,Movido a raw/xlsx,Éxito,messy_ecommerce_sales_data.xlsx
+2026-05-31 10:05:47,INFO,INGESTA_RAW,Messy_Employee_dataset.csv,Movido a raw/csv,Éxito,Messy_Employee_dataset.csv
+2026-05-31 10:06:48,INFO,LIMPIEZA_RAW,Messy_Employee_dataset.csv,Limpieza y guardado,Éxito,Filas antes=1020 | Filas después=1020 | Duplicados eliminados=0 | Celdas reemplazadas con N/A=235
+2026-05-31 10:06:49,INFO,LIMPIEZA_RAW,messy_ecommerce_sales_data.xlsx,Limpieza y guardado,Éxito,Filas antes=103 | Filas después=102 | Duplicados eliminados=1 | Celdas reemplazadas con N/A=32
+2026-05-31 10:06:49,INFO,LIMPIEZA_RAW,empleados_raw.json,Limpieza y guardado,Éxito,Filas antes=30 | Filas después=30 | Duplicados eliminados=0 | Celdas reemplazadas con N/A=11
+2026-05-31 10:06:49,INFO,LIMPIEZA_RAW,consolidado,Generado gold,Éxito,Archivos unidos=3 | Filas totales=1152
+2026-05-31 10:23:32,INFO,INGESTA_RAW,empleados_raw.json,Movido a raw/json,Éxito,empleados_raw.json
+2026-05-31 10:23:32,INFO,INGESTA_RAW,manual.docx,Rechazado,Warning,Extensión no permitida: .docx
+2026-05-31 10:23:32,INFO,INGESTA_RAW,messy_ecommerce_sales_data.xlsx,Movido a raw/xlsx,Éxito,messy_ecommerce_sales_data.xlsx
+2026-05-31 10:23:32,INFO,INGESTA_RAW,Messy_Employee_dataset.csv,Movido a raw/csv,Éxito,Messy_Employee_dataset.csv
+2026-05-31 10:31:15,INFO,LIMPIEZA_RAW,Messy_Employee_dataset.csv,Limpieza y guardado,Éxito,Filas antes=1020 | Filas después=1020 | Duplicados eliminados=0 | Celdas reemplazadas con N/A=235
+2026-05-31 10:31:16,INFO,LIMPIEZA_RAW,messy_ecommerce_sales_data.xlsx,Limpieza y guardado,Éxito,Filas antes=103 | Filas después=102 | Duplicados eliminados=1 | Celdas reemplazadas con N/A=32
+2026-05-31 10:31:16,INFO,LIMPIEZA_RAW,empleados_raw.json,Limpieza y guardado,Éxito,Filas antes=30 | Filas después=30 | Duplicados eliminados=0 | Celdas reemplazadas con N/A=11
+2026-05-31 10:31:16,INFO,LIMPIEZA_RAW,consolidado,Generado gold,Éxito,Archivos unidos=3 | Filas totales=1152
+2026-05-31 10:33:18,INFO,LIMPIEZA_RAW,Messy_Employee_dataset.csv,Limpieza y guardado,Éxito,Filas antes=1020 | Filas después=1020 | Duplicados eliminados=0 | Celdas reemplazadas con N/A=235
+2026-05-31 10:33:18,INFO,LIMPIEZA_RAW,messy_ecommerce_sales_data.xlsx,Limpieza y guardado,Éxito,Filas antes=103 | Filas después=102 | Duplicados eliminados=1 | Celdas reemplazadas con N/A=32
+2026-05-31 10:33:18,INFO,LIMPIEZA_RAW,empleados_raw.json,Limpieza y guardado,Éxito,Filas antes=30 | Filas después=30 | Duplicados eliminados=0 | Celdas reemplazadas con N/A=11
+2026-05-31 10:33:18,INFO,LIMPIEZA_RAW,consolidado,Generado gold,Éxito,Archivos unidos=3 | Filas totales=1152

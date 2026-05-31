@@ -1,0 +1,1153 @@
+id,nombre,departamento,salario,email,telefono,fecha_ingreso,activo,_fuente,customer_name,order_id,order_date,product,category,quantity,price,payment_method,status,total,employee_id,first_name,last_name,age,department_region,join_date,salary,phone,performance_score,remote_work
+1,Carlos Mendoza,Ventas,45000.0,carlos.mendoza@empresa.com,9999-1234,2020-03-15,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+2,Ana Torres,Recursos Humanos,52000.0,ana.torres@empresa.com,9999-5678,2019-07-01,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+3,Luis Garcia,TI,,luis.garcia@empresa.com,,2021-01-10,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+4,Maria Lopez,Ventas,48000.0,,9999-2222,2022-05-20,0.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+5,Carlos Mendoza,Ventas,45000.0,carlos.mendoza@empresa.com,9999-1234,2020-03-15,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+6,,Contabilidad,39000.0,sin.nombre@empresa.com,9999-3333,2023-02-14,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+7,Pedro Castillo,TI,61000.0,pedro.castillo@empresa.com,,2018-11-30,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+8,Sofia Ramirez,Marketing,47000.0,sofia.ramirez@empresa.com,9999-4444,,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+9,Jorge Herrera,Ventas,43000.0,jorge.herrera@empresa.com,9999-5555,2021-08-05,0.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+10,Elena Rios,,55000.0,elena.rios@empresa.com,9999-6666,2020-12-01,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+11,Roberto Silva,Contabilidad,41000.0,,,2022-09-18,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+12,Carmen Diaz,Marketing,49000.0,carmen.diaz@empresa.com,9999-7777,2019-04-22,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+13,Miguel Torres,TI,63000.0,miguel.torres@empresa.com,9999-8888,2017-06-15,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+14,Laura Vega,Recursos Humanos,,,9999-9999,2023-01-09,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+15,Ana Torres,Recursos Humanos,52000.0,ana.torres@empresa.com,9999-5678,2019-07-01,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+16,Diego Morales,Ventas,44000.0,diego.morales@empresa.com,,2022-03-30,0.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+18,Patricia Fuentes,Contabilidad,38000.0,patricia.fuentes@empresa.com,9999-1111,2021-11-11,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+19,Ricardo Blanco,TI,67000.0,ricardo.blanco@empresa.com,,2016-09-01,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+20,Gabriela Soto,Marketing,46000.0,,9999-2020,2023-06-15,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+21,Pedro Castillo,TI,61000.0,pedro.castillo@empresa.com,,2018-11-30,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+22,Fernando Luna,Ventas,42000.0,fernando.luna@empresa.com,9999-2222,,0.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+23,Valeria Castro,Recursos Humanos,53000.0,valeria.castro@empresa.com,9999-2323,2020-05-17,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+24,Andres Paredes,,59000.0,,9999-2424,2019-10-08,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+25,Monica Reyes,Marketing,,monica.reyes@empresa.com,,2022-07-25,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+26,Carlos Mendoza,Ventas,45000.0,carlos.mendoza@empresa.com,9999-1234,2020-03-15,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+27,Hector Vargas,Contabilidad,40000.0,hector.vargas@empresa.com,9999-2727,2021-04-03,0.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+28,Isabel Medina,TI,62000.0,,,2018-02-20,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+29,,Ventas,43500.0,sin.nombre2@empresa.com,9999-2929,2023-03-12,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+30,Claudia Nunez,Recursos Humanos,51000.0,claudia.nunez@empresa.com,9999-3030,,1.0,empleados_raw_clean.csv,,,,,,,,,,,,,,,,,,,,
+100,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_100,ORD-41285,2024-11-22 00:00:00,Blender,Home,3,38,Cash on Delivery,Shipped,114,,,,,,,,,,
+101,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_101,ORD-35783,2025-07-05 00:00:00,Smartphone,Electronics,2,abd,PayPal,Processing,,,,,,,,,,,
+102,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_102,ORD-84355,2024-12-23 00:00:00,Tennis Racket,Sports,1,389.05,PayPal,Delivered,389.05,,,,,,,,,,
+103,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_103,ORD-57811,2025-03-19 00:00:00,Science,Books,5,233.92,PayPal,Processing,1169.6,,,,,,,,,,
+104,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_104,ORD-93614,2025-10-20 00:00:00,Biography,Books,1,552.51,Cash on Delivery,Processing,552.51,,,,,,,,,,
+105,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_105,ORD-22442,2024-11-20 00:00:00,Tennis Racket,Sports,3,122.06,Cash on Delivery,Cancelled,366.18,,,,,,,,,,
+106,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_106,ORD-25885,2025-02-02 00:00:00,Blender,Home,,978.63,Bank Transfer,Processing,,,,,,,,,,,
+107,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_107,ORD-89122,2025-01-03 00:00:00,Biography,Books,5,587.68,PayPal,Returned,2938.4,,,,,,,,,,
+108,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_108,ORD-64400,2025-10-23 00:00:00,Science,Books,1,600.29,Cash on Delivery,Processing,600.29,,,,,,,,,,
+109,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_109,ORD-18512,2025-05-03 00:00:00,Tennis Racket,Sports,5,168.34,Credit Card,Shipped,841.7,,,,,,,,,,
+110,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_110,ORD-61020,2025-09-26 00:00:00,Basketball,sports,5,four hundred,Cash on Delivery,Cancelled,,,,,,,,,,,
+111,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_111,ORD-72349,2025-10-22 00:00:00,Comics,Books,2,865.77,Credit Card,Returned,1731.54,,,,,,,,,,
+112,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_112,ORD-80867,2025-03-02 00:00:00,Shoes,Clothing,4,752.13,Bank Transfer,Delivered,3008.52,,,,,,,,,,
+113,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_113,ORD-23994,2025-07-24 00:00:00,Fiction,Books,1,411.81,Credit Card,Processing,411.81,,,,,,,,,,
+114,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_114,ORD-77417,Jan 5 2023,Smartphone,Electronics,2,413.13,Cash on Delivery,Shipped,826.26,,,,,,,,,,
+115,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_115,ORD-72778,2025-01-10 00:00:00,Fiction,Books,2,796.84,Cash on Delivery,Returned,1115.576,,,,,,,,,,
+116,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_116,ORD-63660,2025-10-30 00:00:00,Microwave,Home,4,,Cash on Delivery,Processing,,,,,,,,,,,
+117,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_117,ORD-72751,2025-02-12 00:00:00,Blender,electronic,-2,10000,Cash on Delivery,Processing,-20000,,,,,,,,,,
+118,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_118,ORD-96061,2025-05-31 00:00:00,Science,Books,5,247.82,PayPal,Processing,1239.1,,,,,,,,,,
+119,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_119,ORD-76016,2024-12-19 00:00:00,Basketball,Sports,4,438.19,Cash on Delivery,Processing,1752.76,,,,,,,,,,
+120,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_120,ORD-14659,2025-06-13 00:00:00,Yoga Mat,ELECTRONICS,5,300$,Credit Card,Cancelled,,,,,,,,,,,
+121,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_121,ORD-80067,2025-10-11 00:00:00,Basketball,Sports,4,523.01,Credit Card,Delivered,2092.04,,,,,,,,,,
+122,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_122,ORD-21443,2025-05-16 00:00:00,Microwave,Home,2,556.93,PayPal,Shipped,1113.86,,,,,,,,,,
+123,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_123,ORD-11314,2025-10-06 00:00:00,Vacuum,electronic,3,615.91,Cash on Delivery,Cancelled,1847.73,,,,,,,,,,
+124,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_124,ORD-46136,2025-05-31 00:00:00,Comics,Books,5,,PayPal,Cancelled,,,,,,,,,,,
+125,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_125,ORD-23202,2025-02-09 00:00:00,Comics,Books,4,765.69,PayPal,Shipped,3062.76,,,,,,,,,,
+126,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_126,ORD-11261,2025-05-18 00:00:00,Shoes,Clothing,4,836.8,Bank Transfer,Cancelled,3347.2,,,,,,,,,,
+127,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_127,ORD-65482,2025-05-12 00:00:00,Blender,Home,5,336.02,Bank Transfer,Returned,1680.1,,,,,,,,,,
+128,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_128,ORD-12270,2024-11-10 00:00:00,Lamp,electronics,3,898.69,Bank Transfer,Delivered,2696.07,,,,,,,,,,
+129,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_129,ORD-48863,2025-06-22 00:00:00,Science,Books,4,736.71,Bank Transfer,Returned,2946.84,,,,,,,,,,
+130,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_130,ORD-34007,2025-08-15 00:00:00,Tennis Racket,Sports,2,,Bank Transfer,Processing,,,,,,,,,,,
+131,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_131,ORD-91396,2025-06-11 00:00:00,Lamp,Home,5,616.63,PayPal,Shipped,3083.15,,,,,,,,,,
+132,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_132,ORD-40186,2025-04-02 00:00:00,Yoga Mat,ELECTRONICS,1,266.7,PayPal,Delivered,266.7,,,,,,,,,,
+133,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_133,ORD-68182,2024-12-05 00:00:00,Biography,,5,343.24,Credit Card,Shipped,1716.2,,,,,,,,,,
+134,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_134,ORD-16585,2025-10-04 00:00:00,T-shirt,Clothing,-5,591.53,PayPal,Shipped,-2957.65,,,,,,,,,,
+135,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_135,ORD-33656,2025-02-09 00:00:00,Smartwatch,electronics,4,446.19,Cash on Delivery,Cancelled,1784.76,,,,,,,,,,
+136,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_136,ORD-20985,2025-06-12 00:00:00,Headphones,,1,696.71,Credit Card,Delivered,696.71,,,,,,,,,,
+137,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_137,ORD-91254,2025-02-23 00:00:00,Vacuum,Home,3,-100,Cash on Delivery,Delivered,-300,,,,,,,,,,
+138,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_138,ORD-34319,2025-08-09 00:00:00,Lamp,Home,1,531.06,PayPal,Processing,531.06,,,,,,,,,,
+139,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_139,ORD-38418,2025-02-09 00:00:00,Smartphone,Electronics,2,681.38,Credit Card,Cancelled,1362.76,,,,,,,,,,
+140,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_140,ORD-67096,2025-02-26 00:00:00,Fiction,Books,4,588.98,Credit Card,Returned,2355.92,,,,,,,,,,
+141,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_141,ORD-45059,2025-02-13 00:00:00,Fiction,Books,3,546.04,Cash on Delivery,Returned,1638.12,,,,,,,,,,
+142,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_142,ORD-69018,2025-10-30 00:00:00,Shoes,Clothing,5,645.26,Credit Card,Shipped,2258.41,,,,,,,,,,
+143,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_143,ORD-14329,2025-07-11 00:00:00,T-shirt,Clothing,5,826.77,Bank Transfer,Cancelled,4133.85,,,,,,,,,,
+144,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_144,ORD-89452,2025-01-27 00:00:00,Football,Sports,5,849.07,Bank Transfer,Processing,4245.35,,,,,,,,,,
+145,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_145,ORD-75314,2023-05-01 00:00:00,Laptop,Electronics,2,860.99,Bank Transfer,Returned,1721.98,,,,,,,,,,
+146,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_146,ORD-32755,2025-07-09 00:00:00,Basketball,electronic,2,705.42,Bank Transfer,Processing,1410.84,,,,,,,,,,
+147,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_147,ORD-80707,2025-05-01 00:00:00,Jacket,Clothing,4,596.15,Cash on Delivery,Shipped,2384.6,,,,,,,,,,
+148,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_148,ORD-38423,2025-03-13 00:00:00,Tennis Racket,Sports,1,660.98,Cash on Delivery,Returned,660.98,,,,,,,,,,
+149,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_149,ORD-95911,2025-06-29 00:00:00,Comics,Books,5,896.38,Bank Transfer,Cancelled,4481.9,,,,,,,,,,
+150,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_150,ORD-76902,2024-11-27 00:00:00,Yoga Mat,Sports,1,206.19,Credit Card,Returned,206.19,,,,,,,,,,
+151,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_151,ORD-56552,2025-07-01 00:00:00,Comics,Books,2,457.16,PayPal,Processing,640.024,,,,,,,,,,
+152,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_152,ORD-72869,2025-09-22 00:00:00,Lamp,Home,3,233.11,PayPal,Returned,699.33,,,,,,,,,,
+153,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_153,ORD-29721,2025-07-16 00:00:00,Yoga Mat,Sports,4,278.9,Cash on Delivery,Processing,1115.6,,,,,,,,,,
+154,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_154,ORD-95990,2025-02-21 00:00:00,Blender,Home,5,789.64,Cash on Delivery,Cancelled,3948.2,,,,,,,,,,
+155,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_155,ORD-20182,2025-05-01 00:00:00,shoes,Clothing,1,40.95,PayPal,Returned,40.95,,,,,,,,,,
+156,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_156,ORD-34679,2024-11-28 00:00:00,Jeans,Clothing,2,,Bank Transfer,Shipped,,,,,,,,,,,
+157,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_157,ORD-34407,2025-11-06 00:00:00,Jacket,Clothing,4,275.1,Bank Transfer,Processing,1100.4,,,,,,,,,,
+158,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_158,ORD-35817,2025-04-05 00:00:00,Smartwatch,Electronics,1,933.58,Cash on Delivery,Shipped,933.58,,,,,,,,,,
+159,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_159,ORD-98162,2025-07-28 00:00:00,Microwave,Home,3,163.16,PayPal,Shipped,489.48,,,,,,,,,,
+160,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_160,ORD-96037,2025-01-03 00:00:00,Science,Books,5,242.52,Cash on Delivery,Returned,1212.6,,,,,,,,,,
+161,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_161,ORD-27653,2024-12-15 00:00:00,Science,Books,4,209.32,Bank Transfer,Shipped,837.28,,,,,,,,,,
+162,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_162,ORD-27743,2025-05-19 00:00:00,Blender,Home,2,155.76,Credit Card,Returned,311.52,,,,,,,,,,
+163,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_163,ORD-24378,2023-01-05 00:00:00,Smartwatch,Electronics,3,235.26,Cash on Delivery,Shipped,705.78,,,,,,,,,,
+164,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_164,ORD-23010,2025-02-09 00:00:00,Tennis Racket,Sports,,587.64,Credit Card,Returned,,,,,,,,,,,
+165,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_165,ORD-55695,2024-11-08 00:00:00,Shoes,Clothing,2,443.13,Credit Card,Delivered,886.26,,,,,,,,,,
+166,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_166,ORD-97756,2025-07-03 00:00:00,T-shirt,electronics,2,569.38,Cash on Delivery,Shipped,1138.76,,,,,,,,,,
+167,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_167,ORD-30329,2025-08-07 00:00:00,Basketball,Sports,,593.93,Cash on Delivery,Processing,,,,,,,,,,,
+168,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_168,ORD-53430,2025-11-04 00:00:00,Biography,Books,2,141.49,PayPal,Cancelled,282.98,,,,,,,,,,
+169,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_169,ORD-75539,2025-08-12 00:00:00,Basketball,Sports,1,582.13,Credit Card,Returned,582.13,,,,,,,,,,
+170,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_170,ORD-21530,2025-10-03 00:00:00,Jeans,Clothing,5,741.63,Bank Transfer,Processing,3708.15,,,,,,,,,,
+171,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_171,ORD-99790,2024-12-06 00:00:00,Shoes,Clothing,3,688.68,PayPal,Processing,2066.04,,,,,,,,,,
+172,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_172,ORD-48008,2024-11-18 00:00:00,Comics,Books,2,942.76,Bank Transfer,Returned,1885.52,,,,,,,,,,
+173,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_173,ORD-42171,2025-10-11 00:00:00,Lamp,Home,5,351.89,Credit Card,Shipped,1759.45,,,,,,,,,,
+174,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_174,ORD-16766,2025-09-20 00:00:00,Microwave,ELECTRONICS,4,187.48,Credit Card,Returned,749.92,,,,,,,,,,
+175,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_175,ORD-56651,2025-02-24 00:00:00,Headphones,Electronics,1,111.36,Credit Card,Processing,111.36,,,,,,,,,,
+176,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_176,ORD-95794,2025-07-22 00:00:00,Comics,Books,5,530.52,Cash on Delivery,Shipped,2652.6,,,,,,,,,,
+177,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_177,ORD-64136,2025-07-28 00:00:00,Laptop,Electronics,1,69.48,Bank Transfer,Returned,69.48,,,,,,,,,,
+178,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_178,ORD-89906,2025-09-18 00:00:00,Tennis Racket,Sports,3,472.14,PayPal,Returned,1416.42,,,,,,,,,,
+179,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_179,ORD-99328,2025-09-03 00:00:00,Yoga Mat,Sports,3,868.67,PayPal,Delivered,2606.01,,,,,,,,,,
+180,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_180,ORD-86629,2025-03-26 00:00:00,Laptop,,2,418.38,Credit Card,Processing,836.76,,,,,,,,,,
+181,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_181,ORD-54481,2024-12-29 00:00:00,Smartphone,,1,266.48,Cash on Delivery,Cancelled,266.48,,,,,,,,,,
+182,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_182,ORD-79672,2025-08-03 00:00:00,Shoes,,4,538.35,PayPal,Processing,2153.4,,,,,,,,,,
+183,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_183,ORD-20916,2025-03-10 00:00:00,Shoes,Clothing,5,,Cash on Delivery,Returned,,,,,,,,,,,
+184,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_184,ORD-67799,2025-02-15 00:00:00,Jeans,,4,101.19,Bank Transfer,Processing,404.76,,,,,,,,,,
+185,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_185,ORD-57123,2025-08-14 00:00:00,Football,Sports,2,730.92,Cash on Delivery,Cancelled,1023.288,,,,,,,,,,
+186,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_186,ORD-90569,2025-10-06 00:00:00,Laptop,Electronics,1,365.34,Bank Transfer,Delivered,365.34,,,,,,,,,,
+187,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_187,ORD-41292,2024-11-19 00:00:00,Smartphone,Electronics,3,882.96,Bank Transfer,Returned,2648.88,,,,,,,,,,
+188,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_188,ORD-58590,2024-11-19 00:00:00,Microwave,Home,5,504.05,Cash on Delivery,Shipped,2520.25,,,,,,,,,,
+189,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_189,ORD-30627,2025-08-14 00:00:00,Lamp,Home,1,814.68,Cash on Delivery,Returned,814.68,,,,,,,,,,
+190,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_190,ORD-38469,2025-06-29 00:00:00,Vacuum,Home,1,920.37,Bank Transfer,Processing,920.37,,,,,,,,,,
+191,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_191,ORD-41810,2025-07-18 00:00:00,Fiction,Books,2,881.02,Cash on Delivery,Returned,1762.04,,,,,,,,,,
+192,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_192,ORD-35144,abc,Jacket,Clothing,4a,203.63,Credit Card,Returned,,,,,,,,,,,
+193,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_193,ORD-42475,2025-06-06 00:00:00,Basketball,,,522.02,PayPal,Shipped,,,,,,,,,,,
+194,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_194,ORD-69764,2025-02-10 00:00:00,Lamp,Home,5,944.54,Cash on Delivery,Returned,4722.7,,,,,,,,,,
+195,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_195,ORD-82876,2025-06-19 00:00:00,Biography,Books,5,817.46,Cash on Delivery,Returned,4087.3,,,,,,,,,,
+196,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_196,ORD-78384,2024-12-23 00:00:00,Vacuum,Home,,abd,PayPal,Delivered,,,,,,,,,,,
+197,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_197,ORD-79139,2025-06-23 00:00:00,Blender,Home,1,160.16,PayPal,Cancelled,160.16,,,,,,,,,,
+198,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_198,ORD-14608,2025-07-27 00:00:00,Vacuum,,2,497.01,Cash on Delivery,Shipped,994.02,,,,,,,,,,
+199,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_199,ORD-82922,2025-01-22 00:00:00,Blender,Home,5,372.28,Credit Card,Shipped,1861.4,,,,,,,,,,
+175,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_175,ORD-56651,2025-02-24 00:00:00,Headphones,Electronics,1,111.36,Credit Card,Processing,77.952,,,,,,,,,,
+142,,,,,,,,messy_ecommerce_sales_data_clean.csv,Customer_142,ORD-69018,2025-10-30 00:00:00,Shoes,Clothing,5,645.26,Credit Card,Shipped,3226.3,,,,,,,,,,
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1000,Bob,Davis,25,DevOps-California,4/2/2021,59767.65,-1651623197,Average,True
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1001,Bob,Brown,,Finance-Texas,7/10/2020,65304.66,-1898471390,Excellent,True
+,,,,alice.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1002,Alice,Jones,,Admin-Nevada,12/7/2023,88145.9,-5596363211,Good,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1003,Eva,Davis,25,Admin-Nevada,11/27/2021,69450.99,-3476490784,Good,True
+,,,,frank.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1004,Frank,Williams,25,Cloud Tech-Florida,1/5/2022,109324.61,-1586734256,Poor,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1005,Alice,Garcia,40,Sales-Texas,6/10/2020,88642.84,-5409003485,Good,False
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1006,Frank,Jones,,Admin-Nevada,4/3/2020,96288.43,-4518376063,Good,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1007,Bob,Jones,30,Cloud Tech-Florida,7/17/2022,94497.91,-4134327559,Average,True
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1008,Frank,Davis,35,Admin-Nevada,12/8/2023,115565.82,-4177656123,Excellent,True
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1009,Charlie,Johnson,,DevOps-New York,8/4/2022,76561.88,-8156985699,Excellent,True
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1010,David,Williams,35,Cloud Tech-New York,7/6/2024,72081.71,-2720634590,Average,False
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1011,David,Davis,,DevOps-California,9/4/2023,84946.19,-1238296576,Poor,True
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1012,Heidi,Williams,30,HR-New York,3/5/2024,89295.77,-2429543164,Excellent,False
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1013,Grace,Williams,,Finance-California,10/10/2020,85666.84,-2669300892,Good,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1014,Alice,Garcia,25,Admin-Nevada,6/10/2024,97633.68,-1734206968,Excellent,True
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1015,Grace,Jones,40,Sales-Florida,5/29/2021,117975.49,-4215291085,Good,True
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1016,Alice,Brown,25,DevOps-Illinois,4/23/2024,94867.33,-7713334475,Poor,False
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1017,Grace,Garcia,30,Finance-Texas,11/28/2024,100377.65,-2639343625,Average,True
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1018,Charlie,Garcia,,Cloud Tech-Nevada,9/19/2024,94726.46,-2044397358,Excellent,False
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1019,Charlie,Williams,35,Admin-Illinois,1/2/2020,91926.12,-7107256365,Average,True
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1020,Bob,Miller,35,HR-New York,5/8/2021,111460.67,-9411800536,Excellent,True
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1021,Bob,Jones,40,Cloud Tech-Illinois,9/19/2020,96182.56,-5990048963,Good,False
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1022,Charlie,Johnson,35,Sales-Illinois,3/9/2021,115023.94,-6528092427,Average,True
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1023,David,Garcia,35,Finance-Nevada,2/3/2022,80667.01,-7572158623,Excellent,False
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1024,Bob,Brown,30,Admin-Texas,2/13/2020,91181.61,-1502745643,Good,True
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1025,David,Miller,25,Cloud Tech-Nevada,4/30/2020,66025.92,-9485625727,Average,False
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1026,Frank,Miller,25,Sales-New York,10/2/2023,83979.01,-7032032073,Average,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1027,Heidi,Johnson,30,Finance-Florida,7/12/2020,56785.16,-2761707586,Excellent,True
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1028,Grace,Garcia,40,Finance-Nevada,10/11/2023,95741.88,-7712151341,Excellent,False
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1029,Alice,Brown,40,DevOps-California,5/24/2021,63411.31,-2849939088,Excellent,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1030,Charlie,Jones,40,Admin-California,5/26/2021,111214.02,-2613715040,Good,True
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1031,Bob,Smith,25,DevOps-Illinois,7/10/2020,114845.69,-6591520176,Excellent,True
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1032,Charlie,Brown,40,Finance-Florida,11/5/2024,78072.82,-7490509758,Average,False
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1033,Grace,Johnson,25,Finance-California,8/7/2021,79610.52,-2304501895,Average,False
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1034,Heidi,Miller,30,Admin-California,4/29/2020,90542.62,-1642361031,Excellent,True
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1035,Frank,Jones,25,Cloud Tech-Illinois,10/26/2022,114357.1,-6642147648,Excellent,True
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1036,Alice,Brown,,Cloud Tech-New York,5/3/2023,54757.26,-2515837766,Poor,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1037,Grace,Smith,25,Sales-New York,5/2/2023,52781.92,-4996165925,Average,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1038,Frank,Smith,35,Admin-Nevada,10/5/2021,66708.02,-6108573277,Good,True
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1039,Eva,Williams,40,HR-Texas,7/27/2022,93481.15,-8147617421,Poor,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1040,Bob,Williams,25,Sales-New York,6/27/2021,59271.96,-4386490809,Excellent,True
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1041,Bob,Davis,30,HR-California,6/16/2022,108362.15,-8186617944,Excellent,False
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1042,Alice,Johnson,,HR-Nevada,12/3/2024,59400.38,-4918017225,Average,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1043,Bob,Garcia,,Admin-California,5/23/2023,64744.08,-164597793,Excellent,False
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1044,Eva,Brown,,Finance-California,7/8/2020,94399.91,-5232194167,Good,True
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1045,Alice,Brown,25,HR-New York,6/20/2021,61310.74,-61027768,Average,True
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1046,Grace,Garcia,,Cloud Tech-Texas,12/13/2024,98371.37,-7499564121,Excellent,False
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1047,Alice,Davis,35,Sales-Illinois,5/30/2022,58921.19,-310303722,Average,True
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1048,Alice,Miller,35,Admin-Nevada,9/27/2023,57195.55,-6831472759,Excellent,False
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1049,Grace,Miller,,DevOps-New York,11/5/2024,61375.12,-1227770792,Excellent,True
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1050,Charlie,Davis,40,Cloud Tech-New York,11/11/2021,104767.05,-3496050165,Excellent,False
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1051,David,Miller,35,Admin-Nevada,2/22/2022,111051.67,-7998407677,Good,False
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1052,David,Williams,30,Finance-California,8/7/2024,105674.18,-9973080694,Good,False
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1053,Alice,Brown,30,Finance-California,11/5/2024,54859.45,-8146717956,Average,False
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1054,Frank,Davis,,Finance-Nevada,11/9/2021,115746.6,-6024375737,Excellent,True
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1055,Eva,Brown,30,Sales-California,8/10/2020,91759.99,-3959724664,Excellent,True
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1056,Frank,Garcia,40,Sales-Illinois,2/27/2022,112965.33,-7293417222,Good,False
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1057,Alice,Smith,40,Cloud Tech-Illinois,11/7/2023,100360.1,-2971674337,Excellent,False
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1058,David,Williams,35,Finance-Texas,11/7/2021,93620.88,-54522800,Good,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1059,Bob,Jones,35,Sales-California,4/16/2022,72832.8,-5619318373,Excellent,True
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1060,Charlie,Williams,30,Finance-Nevada,10/19/2023,102369.42,-5508428909,Average,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1061,Eva,Davis,40,Sales-Texas,8/10/2021,64712.79,-7711991807,Excellent,True
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1062,Frank,Jones,40,Finance-Florida,3/13/2021,85782.18,-1213524786,Excellent,True
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1063,Charlie,Smith,25,HR-Illinois,7/20/2023,93348.26,-1255213759,Poor,False
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1064,David,Davis,35,Admin-New York,2/20/2020,53234.96,-3754821455,Good,False
+,,,,bob.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1065,Bob,Johnson,40,Finance-Nevada,2/2/2021,100284.21,-5328632665,Excellent,False
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1066,Grace,Brown,30,Admin-Nevada,1/12/2020,112486.19,-7850720810,Excellent,True
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1067,Bob,Smith,40,Admin-New York,11/26/2022,82518.49,-5562606028,Poor,True
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1068,Bob,Brown,40,Admin-Florida,12/23/2022,119152.47,-846684549,Poor,True
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1069,Heidi,Miller,,DevOps-Illinois,8/28/2024,113479.83,-4892673898,Good,False
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1070,Charlie,Johnson,40,Finance-California,9/16/2024,94636.3,-7563410855,Poor,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1071,Heidi,Johnson,30,HR-Florida,1/1/2024,70000.97,-2884318847,Average,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1072,Frank,Smith,,Cloud Tech-New York,4/18/2021,76812.47,-5200894345,Poor,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1073,David,Johnson,25,Finance-Florida,1/16/2023,82614.7,-8105485100,Average,True
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1074,Grace,Jones,40,Sales-Nevada,10/20/2024,111645.97,-7490753997,Good,True
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1075,Heidi,Johnson,25,HR-California,10/13/2024,112414.91,-9354492682,Good,False
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1076,David,Brown,40,Admin-California,9/21/2022,52031.74,-1589357125,Good,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1077,Grace,Brown,30,Finance-New York,12/29/2022,51887.65,-6110627370,Good,False
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1078,Alice,Davis,25,DevOps-Florida,11/10/2024,82318.89,-5869886496,Good,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1079,Grace,Brown,35,Admin-Florida,11/22/2021,103286.08,-6776228276,Average,False
+,,,,grace.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1080,Grace,Davis,35,Cloud Tech-Florida,3/14/2024,87759.33,-2881377027,Average,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1081,Frank,Brown,30,DevOps-Texas,3/23/2020,102796.32,-5196115939,Good,False
+,,,,david.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1082,David,Jones,25,Sales-New York,9/15/2020,83149.27,-8215454469,Poor,True
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1083,David,Garcia,40,DevOps-California,12/9/2020,92412.49,-2296044326,Excellent,True
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1084,Bob,Davis,30,HR-Texas,2/22/2020,115022.1,-185106793,Good,False
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1085,Grace,Williams,40,DevOps-New York,4/27/2023,98343.01,-9756792286,Poor,False
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1086,Bob,Miller,35,DevOps-Illinois,6/18/2024,118869.1,-7725199662,Excellent,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1087,Frank,Smith,,Finance-Nevada,5/21/2020,85417.26,-6580741208,Good,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1088,Grace,Brown,40,Cloud Tech-Florida,7/25/2023,112410.25,-4818139889,Good,True
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1089,Charlie,Johnson,40,Admin-Nevada,8/25/2023,68905.77,-9837801819,Average,False
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1090,Heidi,Garcia,40,Finance-Nevada,7/3/2021,72561.32,-4339718955,Excellent,True
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1091,Bob,Brown,35,Finance-New York,3/13/2023,92723.22,-9070562607,Excellent,True
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1092,Alice,Johnson,40,HR-New York,3/10/2021,74837.75,-5641118241,Poor,False
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1093,Eva,Miller,,DevOps-California,1/21/2020,86163.91,-2412462094,Average,True
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1094,David,Miller,40,Finance-Illinois,11/15/2023,83326.52,-2004615264,Average,True
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1095,Heidi,Miller,25,Cloud Tech-California,4/8/2022,98425.1,-4610339936,Average,True
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1096,Frank,Johnson,40,Sales-Illinois,5/21/2022,119764.2,-8861405785,Average,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1097,Frank,Brown,40,HR-California,4/17/2021,58445.91,-1706304890,Excellent,False
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1098,Bob,Miller,,DevOps-New York,3/19/2021,101702.33,-3824967182,Excellent,False
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1099,Eva,Jones,25,Admin-California,1/9/2022,,-2582386869,Good,False
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1100,Charlie,Davis,35,Cloud Tech-Texas,8/21/2021,98819.22,-794200748,Good,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1101,Heidi,Johnson,25,Cloud Tech-Illinois,8/19/2022,83509.99,-4653984027,Average,False
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1102,Alice,Johnson,35,Finance-Texas,3/31/2022,84422.26,-9141612845,Average,False
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1103,Alice,Brown,30,Admin-Illinois,6/23/2020,119574.27,-3985547434,Average,True
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1104,Grace,Johnson,,Sales-Illinois,5/7/2024,86580.08,-5379502096,Good,True
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1105,Heidi,Johnson,35,Sales-Florida,3/10/2023,93471.91,-26876810,Poor,False
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1106,Bob,Miller,30,DevOps-New York,9/14/2023,55683.12,-8071569561,Poor,True
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1107,Bob,Brown,30,Cloud Tech-Florida,11/12/2023,91566.78,-175370303,Good,True
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1108,David,Miller,35,DevOps-California,10/26/2024,81782.19,-5319433749,Good,False
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1109,Eva,Davis,,DevOps-New York,8/23/2020,88119.37,-4793036148,Good,True
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1110,Eva,Garcia,30,Cloud Tech-Texas,6/11/2024,71532.83,-8728399920,Good,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1111,Eva,Davis,40,Cloud Tech-Florida,9/14/2021,98981.36,-9212493842,Good,True
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1112,Heidi,Garcia,40,Cloud Tech-Illinois,12/26/2024,80242.01,-894870604,Good,True
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1113,Eva,Miller,25,Cloud Tech-New York,9/8/2024,110236.18,-6641877579,Average,True
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1114,Alice,Davis,35,Sales-Texas,8/21/2022,86327.47,-3046875062,Average,False
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1115,Eva,Brown,30,Sales-Florida,7/25/2024,84420.81,-5190361331,Average,False
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1116,Frank,Smith,40,HR-California,8/2/2020,110041.32,-5411076094,Average,False
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1117,Heidi,Miller,35,DevOps-Florida,3/16/2020,81837.81,-4317350582,Good,True
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1118,Frank,Garcia,25,Finance-Illinois,9/8/2023,110855.72,-1997179109,Poor,False
+,,,,alice.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1119,Alice,Jones,30,Sales-California,3/29/2024,84894.52,-651207048,Excellent,True
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1120,Alice,Garcia,30,HR-Illinois,8/12/2021,80668.13,-6110804660,Good,True
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1121,Bob,Jones,25,DevOps-Illinois,12/24/2023,61086.47,-9639907675,Excellent,True
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1122,Grace,Johnson,25,Admin-Texas,8/28/2020,95339.68,-9915078592,Poor,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1123,Eva,Davis,,DevOps-California,9/5/2024,83774.97,-1109193927,Average,False
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1124,Heidi,Jones,,Admin-Florida,5/12/2023,85576.86,-4567972319,Poor,False
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1125,Bob,Garcia,35,Finance-California,7/1/2021,107438.46,-249685497,Good,True
+,,,,eva.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1126,Eva,Johnson,,Sales-Nevada,11/7/2024,60401.68,-2274954507,Average,False
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1127,Frank,Smith,35,Sales-Illinois,7/21/2022,115299.66,-9203880652,Good,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1128,David,Brown,,Finance-New York,3/30/2020,72272.34,-3315377958,Average,False
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1129,Grace,Brown,40,DevOps-Nevada,10/11/2022,117537.71,-9594652169,Excellent,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1130,Frank,Brown,25,Finance-Texas,7/24/2022,51074.33,-7303379336,Excellent,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1131,Charlie,Jones,25,Finance-California,6/30/2023,98489.32,-5636205014,Excellent,False
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1132,Frank,Smith,,Finance-California,1/11/2024,112120.71,-812473949,Poor,True
+,,,,alice.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1133,Alice,Jones,,Cloud Tech-New York,11/2/2023,114465.04,-334234257,Good,False
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1134,Bob,Davis,40,Cloud Tech-Nevada,11/22/2024,57035.51,-3230241025,Poor,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1135,Eva,Jones,25,Cloud Tech-California,8/23/2021,75092.43,-1534735527,Excellent,True
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1136,David,Smith,,Finance-Illinois,6/11/2024,62603.98,-9611223385,Good,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1137,Grace,Smith,,DevOps-New York,4/9/2023,60018.24,-5596309937,Excellent,False
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1138,Eva,Davis,40,HR-Nevada,7/5/2024,82567.73,-4253042896,Poor,True
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1139,Charlie,Smith,25,Finance-California,9/4/2021,94725.71,-3179128684,Poor,False
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1140,Eva,Garcia,40,HR-New York,10/13/2024,83824.56,-7872558776,Poor,False
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1141,Frank,Smith,,HR-Nevada,2/14/2020,118456.11,-4969033372,Excellent,True
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1142,Eva,Brown,25,Sales-Nevada,4/10/2020,113743.19,-6346692547,Good,True
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1143,Eva,Garcia,30,Sales-California,7/27/2023,63309.24,-1214785389,Good,False
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1144,Charlie,Garcia,25,DevOps-Nevada,9/24/2021,105202.73,-7895677664,Excellent,True
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1145,Frank,Davis,30,Cloud Tech-California,3/10/2024,79085.22,-7546027340,Good,True
+,,,,frank.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1146,Frank,Williams,,Sales-California,6/10/2021,113983.43,-5148881430,Excellent,True
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1147,Eva,Williams,35,Cloud Tech-Florida,10/15/2020,102790.6,-1150835353,Good,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1148,Grace,Smith,,HR-Texas,1/29/2020,68512.1,-4439284043,Average,False
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1149,Frank,Garcia,35,Sales-Florida,1/30/2022,57584.23,-5669078262,Average,True
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1150,Alice,Williams,,Sales-California,3/29/2021,95335.67,-3373898774,Poor,False
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1151,Heidi,Williams,35,DevOps-Florida,10/13/2020,53174.28,-1536637779,Average,True
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1152,Heidi,Smith,25,Cloud Tech-New York,10/4/2020,77205.21,-5292407552,Average,False
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1153,Grace,Williams,,DevOps-Nevada,12/18/2024,79041.92,-6668459089,Average,True
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1154,Heidi,Jones,,Finance-California,11/14/2023,75937.1,-2259999662,Excellent,True
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1155,David,Johnson,35,Cloud Tech-Nevada,1/20/2023,113118.73,-6186371596,Average,False
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1156,Alice,Davis,40,HR-New York,10/2/2024,107693.38,-4121820969,Average,True
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1157,David,Johnson,,Cloud Tech-Texas,5/13/2021,119217.46,-2316433480,Poor,False
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1158,David,Smith,25,Sales-New York,3/18/2021,106913.71,-7058025661,Average,False
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1159,Charlie,Brown,,Cloud Tech-California,9/23/2020,87815.08,-1286716322,Average,True
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1160,Bob,Davis,25,Admin-Texas,6/5/2024,105190.21,-4672994937,Good,True
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1161,Alice,Smith,30,HR-Texas,2/28/2024,79467.24,-7430271692,Poor,False
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1162,Bob,Garcia,40,Finance-California,4/30/2023,57633.78,-8597779013,Poor,True
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1163,Alice,Brown,,HR-Florida,3/4/2020,54257.78,-7546926328,Poor,True
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1164,Grace,Johnson,40,DevOps-Texas,12/29/2023,113679.06,-6762916031,Poor,True
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1165,Bob,Smith,35,Sales-New York,9/15/2020,69251.12,-4841376814,Poor,True
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1166,Frank,Garcia,40,Sales-Illinois,7/18/2022,85388.58,-1185672437,Poor,True
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1167,Bob,Davis,,DevOps-New York,7/13/2022,112166.37,-701765635,Excellent,False
+,,,,heidi.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1168,Heidi,Davis,40,Finance-Nevada,10/2/2021,79873.48,-41257770,Average,False
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1169,Frank,Miller,30,DevOps-Florida,7/5/2020,108224.03,-1837274219,Poor,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1170,Bob,Garcia,35,Admin-Illinois,4/16/2023,116963.72,-9124186209,Average,True
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1171,Bob,Jones,40,HR-Nevada,11/12/2024,114109.06,-4275230836,Average,True
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1172,Eva,Williams,,HR-California,3/29/2023,85518.88,-816470899,Excellent,False
+,,,,heidi.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1173,Heidi,Brown,30,Cloud Tech-California,1/22/2022,58041.97,-6335331059,Poor,True
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1174,David,Garcia,40,Sales-Illinois,10/14/2023,94988.94,-531312205,Good,False
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1175,Eva,Miller,25,Admin-California,4/10/2024,71628.93,-8155839385,Excellent,False
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1176,Alice,Williams,30,Admin-Illinois,3/31/2022,54870.98,-6133155205,Good,False
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1177,Alice,Williams,25,DevOps-Illinois,2/9/2022,79388.27,-5063731494,Average,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1178,Frank,Smith,35,DevOps-California,5/6/2023,55946.99,-136497188,Average,False
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1179,Charlie,Williams,,Cloud Tech-Nevada,7/11/2021,81017.91,-2419562524,Excellent,True
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1180,Heidi,Jones,40,HR-New York,8/21/2020,74162.1,-7150997682,Excellent,False
+,,,,heidi.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1181,Heidi,Davis,,DevOps-California,3/27/2021,77668.44,-8903091435,Good,True
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1182,Alice,Miller,30,HR-New York,4/14/2024,67886.37,-3910257431,Poor,False
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1183,Alice,Williams,40,DevOps-Florida,9/21/2020,76614.52,-6303975244,Good,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1184,Frank,Smith,25,Finance-Nevada,6/12/2022,51311.91,-864035532,Excellent,False
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1185,Frank,Jones,,Finance-Illinois,12/24/2023,94809.92,-8033968526,Good,True
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1186,Grace,Johnson,25,HR-New York,7/31/2022,108241.81,-171302320,Excellent,True
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1187,Bob,Davis,40,Cloud Tech-New York,4/21/2023,78031.49,-2983381673,Good,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1188,Eva,Davis,35,Admin-California,6/5/2020,85733.83,-2336293448,Excellent,True
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1189,David,Miller,35,HR-Nevada,7/27/2024,60338.29,-7347156626,Excellent,False
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1190,Eva,Davis,30,Admin-Illinois,4/5/2024,103140.67,-7689627065,Excellent,False
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1191,Heidi,Williams,40,Sales-Illinois,10/26/2023,114690.8,-1498282466,Poor,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1192,Frank,Smith,35,Admin-Florida,8/18/2022,80954.56,-4746897151,Good,False
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1193,Eva,Davis,,Cloud Tech-California,5/31/2020,71728.55,-7323008575,Good,True
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1194,Alice,Davis,35,HR-Texas,11/4/2024,118415.8,-6656749159,Good,True
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1195,Grace,Johnson,40,Sales-Illinois,3/25/2020,81481.36,-1692364586,Excellent,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1196,David,Johnson,35,Sales-Florida,11/4/2020,117040.57,-5066337049,Good,True
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1197,Frank,Brown,25,Sales-Nevada,3/21/2020,67342.06,-2497243991,Good,True
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1198,Heidi,Jones,,Sales-Illinois,1/15/2022,76099.64,-116691835,Excellent,False
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1199,Grace,Williams,35,DevOps-Illinois,6/4/2024,94162.06,-2644886945,Average,True
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1200,Frank,Davis,25,Sales-Nevada,8/4/2021,67639.7,-1195243639,Excellent,True
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1201,Charlie,Garcia,35,Cloud Tech-Illinois,10/16/2020,114172.25,-2701168645,Good,True
+,,,,grace.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1202,Grace,Davis,30,Sales-Nevada,9/26/2021,89124.54,-2252237280,Excellent,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1203,Frank,Smith,30,DevOps-Nevada,11/4/2023,113871.36,-7932302345,Average,False
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1204,Grace,Brown,,HR-Texas,9/24/2021,62618.4,-7912141613,Excellent,False
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1205,Heidi,Jones,30,Admin-New York,6/7/2020,70705.45,-1509377099,Good,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1206,Alice,Garcia,35,Sales-New York,2/10/2022,60797.69,-4090138068,Average,True
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1207,Charlie,Brown,40,Cloud Tech-Florida,10/17/2023,100371,-8477596554,Poor,True
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1208,Eva,Miller,40,Admin-Illinois,9/25/2021,117591.76,-5356690550,Good,False
+,,,,david.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1209,David,Jones,35,DevOps-Illinois,8/3/2022,103860.7,-762091842,Average,True
+,,,,grace.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1210,Grace,Davis,30,Admin-Illinois,11/22/2024,67500.22,-5797863049,Average,True
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1211,Frank,Davis,,Cloud Tech-Nevada,10/9/2024,58727.44,-5057397690,Poor,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1212,Charlie,Jones,35,Finance-Illinois,8/28/2024,80623.08,-5671649327,Excellent,True
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1213,David,Davis,40,HR-Texas,4/19/2020,77751.78,-9802714871,Excellent,False
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1214,Grace,Williams,25,HR-New York,10/14/2021,115157.81,-7178333210,Good,False
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1215,Frank,Jones,30,Admin-Texas,8/26/2024,83071.85,-6025643470,Poor,False
+,,,,heidi.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1216,Heidi,Brown,40,Sales-Texas,2/8/2020,67914.67,-2871539914,Excellent,True
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1217,Grace,Jones,25,HR-New York,9/6/2020,53342.46,-6686334140,Poor,False
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1218,Heidi,Garcia,25,Cloud Tech-Florida,1/2/2023,51150.47,-1159319524,Excellent,False
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1219,David,Davis,30,HR-Florida,6/13/2023,74697.12,-6904098365,Average,True
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1220,Charlie,Williams,25,Sales-California,12/13/2022,88085.74,-5528993159,Excellent,True
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1221,Alice,Williams,40,Finance-Texas,3/3/2022,118672.76,-8752437728,Poor,False
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1222,Alice,Miller,35,Cloud Tech-California,2/10/2024,95997.31,-4209548148,Average,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1223,Frank,Brown,30,Cloud Tech-California,11/24/2021,106945.62,-7374605232,Average,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1224,Heidi,Johnson,40,DevOps-New York,5/9/2020,100123.15,-276420864,Average,False
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1225,Alice,Johnson,35,Admin-Texas,12/19/2024,52933.42,-6756618442,Poor,True
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1226,Grace,Jones,,Finance-California,3/22/2024,95283.03,-8612590471,Good,False
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1227,Alice,Miller,35,HR-Texas,6/13/2022,112264.06,-9277423329,Good,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1228,Grace,Smith,35,Admin-Florida,10/15/2022,75714.28,-5912662014,Good,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1229,Eva,Jones,25,DevOps-Florida,5/31/2022,92171.73,-7201859625,Poor,False
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1230,Eva,Miller,35,Cloud Tech-Texas,9/15/2023,70694.8,-3013674925,Average,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1231,Grace,Brown,30,DevOps-Florida,7/4/2022,52964.86,-1764750110,Good,True
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1232,Frank,Brown,,Finance-California,6/8/2024,116353.31,-1783099973,Poor,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1233,Grace,Brown,35,Sales-Nevada,11/23/2020,116695.26,-1926764920,Good,False
+,,,,heidi.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1234,Heidi,Brown,25,Admin-Texas,5/13/2024,95161.4,-5182606887,Excellent,False
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1235,Alice,Brown,,Admin-Nevada,1/29/2022,76040.94,-7189813128,Good,True
+,,,,charlie.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1236,Charlie,Miller,,HR-Florida,8/23/2023,69508.28,-2087510292,Good,False
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1237,Alice,Miller,30,Finance-Illinois,2/24/2023,58243.27,-2184011844,Average,False
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1238,Heidi,Williams,30,Sales-California,10/2/2022,64012.48,-8260340847,Poor,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1239,Bob,Garcia,40,Admin-Nevada,6/28/2020,106735.93,-7297585987,Average,True
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1240,Frank,Johnson,35,DevOps-Texas,1/15/2023,70325.36,-3103032431,Average,False
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1241,Charlie,Davis,30,HR-Illinois,9/5/2020,118959.28,-9839542960,Average,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1242,David,Brown,40,Cloud Tech-California,3/18/2023,75823.78,-8446267145,Average,False
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1243,Charlie,Smith,,Cloud Tech-Texas,3/26/2022,119971.65,-2831435988,Average,False
+,,,,grace.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1244,Grace,Davis,40,Sales-Texas,10/11/2021,94963.7,-2625660930,Good,False
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1245,Frank,Miller,30,Sales-Nevada,1/7/2021,103744.71,-4181861514,Average,False
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1246,Alice,Smith,25,Sales-New York,12/3/2020,61337.69,-5423401635,Average,True
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1247,David,Smith,35,Sales-California,5/28/2021,63741.13,-1128497184,Poor,True
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1248,Eva,Smith,30,DevOps-California,12/28/2022,56539.99,-9484910255,Excellent,True
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1249,Charlie,Williams,30,DevOps-Illinois,5/24/2023,73633.37,-2588967923,Good,True
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1250,Alice,Miller,25,Cloud Tech-Texas,4/28/2024,90373.99,-822269404,Good,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1251,Grace,Smith,,DevOps-Texas,12/25/2024,93901.48,-3967275783,Good,False
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1252,Eva,Brown,40,Admin-Nevada,9/1/2021,81748.09,-4683414650,Average,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1253,Charlie,Jones,40,Finance-Florida,2/21/2021,73813.48,-1131290147,Average,False
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1254,Frank,Smith,35,Finance-New York,11/20/2022,89315.59,-7068277880,Average,False
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1255,Heidi,Williams,25,HR-Florida,10/15/2020,56776.82,-6093068537,Poor,False
+,,,,grace.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1256,Grace,Davis,,Finance-New York,7/24/2024,72920.51,-9097283214,Excellent,True
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1257,Frank,Miller,30,Admin-Florida,8/14/2022,84913.18,-2850676250,Average,True
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1258,Alice,Garcia,25,Finance-Illinois,5/8/2021,65060.11,-5381447442,Excellent,True
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1259,Alice,Williams,35,Finance-Illinois,10/9/2023,82941.08,-963480796,Poor,False
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1260,Bob,Smith,40,Admin-California,1/19/2022,103469.97,-509754509,Good,True
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1261,Grace,Miller,25,Sales-Illinois,1/12/2022,88725.6,-5265016730,Average,True
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1262,Heidi,Jones,,HR-Illinois,6/5/2023,58316.77,-8826170242,Excellent,True
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1263,Grace,Smith,35,HR-Illinois,3/26/2024,60098.72,-7654562840,Excellent,True
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1264,Grace,Williams,,Cloud Tech-Texas,10/7/2020,99951.43,-7722560530,Average,True
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1265,Heidi,Johnson,30,Sales-Illinois,11/2/2021,115195.81,-3402665022,Good,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1266,Grace,Brown,,DevOps-California,11/19/2021,85512.05,-7416787255,Good,False
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1267,Heidi,Garcia,,HR-Florida,1/24/2022,73186.77,-8621102257,Good,False
+,,,,grace.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1268,Grace,Davis,,HR-Nevada,7/12/2023,51865.3,-305690673,Poor,True
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1269,David,Williams,25,Sales-Florida,12/9/2022,94031.77,-4716392822,Excellent,True
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1270,Grace,Miller,30,DevOps-New York,3/18/2023,116374.36,-4143637188,Excellent,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1271,Alice,Garcia,40,HR-Florida,4/25/2022,98335.02,-2392312603,Excellent,False
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1272,Heidi,Garcia,25,DevOps-New York,2/28/2021,89262.07,-3260931065,Poor,True
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1273,Heidi,Garcia,,Finance-California,7/30/2022,113848.69,-8433567085,Excellent,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1274,Frank,Smith,35,Sales-Florida,5/19/2021,69530.45,-414545634,Poor,True
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1275,Eva,Brown,35,DevOps-New York,12/14/2023,84230.22,-200053473,Good,True
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1276,Eva,Smith,35,Cloud Tech-Illinois,1/17/2023,76578.59,-9162475540,Average,False
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1277,Frank,Miller,30,HR-Texas,1/2/2024,55532.06,-1082555988,Excellent,True
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1278,Eva,Smith,40,Admin-New York,7/9/2021,115311.68,-5343961128,Excellent,True
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1279,Charlie,Johnson,25,Sales-Nevada,5/5/2021,66972.06,-1093371188,Good,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1280,David,Brown,30,Cloud Tech-Texas,11/7/2021,100215.06,-5473820235,Average,True
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1281,Charlie,Brown,25,Sales-New York,8/30/2023,115452.25,-8485571616,Poor,False
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1282,Heidi,Miller,30,HR-California,8/15/2023,54141.38,-6880294239,Average,False
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1283,David,Davis,,DevOps-Nevada,12/24/2020,79251.95,-9036788126,Good,False
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1284,Alice,Johnson,40,Finance-New York,11/21/2024,114822.78,-8686694319,Good,True
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1285,Alice,Williams,35,Sales-Illinois,11/17/2021,69919.32,-2939087883,Average,True
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1286,Heidi,Smith,30,Sales-Florida,1/29/2021,106616.97,-4344812307,Poor,False
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1287,Heidi,Jones,35,DevOps-New York,2/17/2024,73597.85,-3402424032,Poor,True
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1288,David,Smith,30,Sales-Nevada,8/20/2024,79939.23,-8105955183,Excellent,True
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1289,Grace,Garcia,25,Admin-New York,10/24/2021,,-2694500533,Poor,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1290,Grace,Smith,30,Finance-California,9/10/2021,90772.25,-2408916497,Average,False
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1291,Eva,Williams,35,DevOps-New York,9/29/2023,58275.74,-3735439626,Good,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1292,Grace,Smith,,DevOps-California,8/28/2020,94709.79,-3652717271,Excellent,False
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1293,Frank,Johnson,,Admin-New York,9/6/2022,60722.99,-2397240421,Excellent,True
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1294,Frank,Johnson,40,DevOps-Illinois,3/31/2024,87626.24,-6931216375,Good,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1295,David,Brown,30,DevOps-Illinois,12/12/2022,81272.36,-1820916600,Poor,False
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1296,Bob,Miller,,Cloud Tech-Texas,11/1/2022,64150.97,-23142899,Good,True
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1297,Charlie,Davis,35,Sales-Florida,10/25/2023,64378.1,-1851327971,Poor,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1298,Bob,Jones,,Finance-Texas,9/27/2020,85927.35,-4572308480,Good,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1299,Alice,Garcia,,Finance-Nevada,1/21/2024,51523.93,-18418619,Average,True
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1300,Alice,Smith,30,Sales-Texas,5/17/2022,74117.02,-3036625435,Poor,False
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1301,Alice,Smith,25,Finance-Texas,4/17/2022,62598.69,-1721314518,Average,True
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1302,Grace,Williams,35,Finance-Florida,2/8/2022,55617.5,-5151092267,Excellent,True
+,,,,charlie.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1303,Charlie,Miller,35,Cloud Tech-New York,3/15/2022,87018.98,-5926249450,Good,True
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1304,David,Johnson,25,Cloud Tech-California,10/11/2023,100336.58,-4754102251,Excellent,True
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1305,Grace,Jones,30,Admin-Florida,11/13/2020,69295.48,-6771196420,Excellent,False
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1306,Bob,Brown,25,DevOps-Florida,4/17/2024,115536.66,-5226557675,Excellent,True
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1307,David,Johnson,30,Cloud Tech-Texas,3/9/2020,81250.87,-9523668787,Excellent,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1308,Alice,Garcia,30,DevOps-Texas,6/17/2022,66403.75,-7883619688,Good,False
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1309,Alice,Miller,30,Sales-California,7/28/2024,114147.79,-3135030586,Excellent,False
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1310,Frank,Garcia,30,HR-New York,12/3/2022,65472.99,-2105524727,Good,False
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1311,Alice,Davis,,Sales-Nevada,7/6/2023,97512.51,-6333021259,Good,True
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1312,Alice,Brown,35,DevOps-Nevada,5/28/2024,86712.41,-6501917919,Average,True
+,,,,grace.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1313,Grace,Davis,30,HR-Florida,3/25/2024,87654.98,-2521310961,Poor,False
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1314,David,Williams,35,DevOps-New York,4/28/2020,89367.02,-2728476569,Poor,False
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1315,Charlie,Garcia,40,Admin-California,11/7/2021,95269.41,-4120092819,Good,True
+,,,,frank.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1316,Frank,Williams,25,Sales-Nevada,4/15/2020,68792.31,-6678498435,Average,False
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1317,Alice,Smith,25,Admin-Illinois,10/7/2023,89119.53,-2418623689,Good,True
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1318,Frank,Davis,35,Cloud Tech-New York,2/27/2024,58212.13,-3628917755,Good,False
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1319,Heidi,Miller,30,DevOps-Illinois,2/22/2021,77764.24,-6205634110,Good,True
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1320,Frank,Garcia,35,Finance-Florida,8/21/2023,75148.17,-5950342810,Average,False
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1321,Heidi,Jones,40,Cloud Tech-Nevada,4/8/2024,108781.18,-3904383033,Poor,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1322,Frank,Brown,35,Finance-Texas,11/4/2024,65489.19,-1990970050,Average,True
+,,,,eva.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1323,Eva,Johnson,,Sales-Illinois,5/5/2022,70663.46,-4054683564,Excellent,False
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1324,David,Miller,40,Sales-New York,2/1/2023,95822.56,-2156818208,Average,False
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1325,Eva,Miller,40,DevOps-Nevada,10/1/2022,82258.03,-6790422710,Average,True
+,,,,frank.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1326,Frank,Williams,30,Admin-Nevada,9/27/2022,62883.34,-3322889856,Average,False
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1327,Alice,Davis,,Cloud Tech-Texas,4/9/2020,103503.72,-2545960632,Average,True
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1328,David,Garcia,25,DevOps-New York,3/23/2021,85401.3,-9912971023,Poor,True
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1329,Heidi,Garcia,40,Cloud Tech-Texas,2/3/2023,,-8171752420,Excellent,False
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1330,Eva,Smith,,HR-Texas,7/23/2024,98850.14,-4955112746,Poor,False
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1331,Charlie,Smith,25,Cloud Tech-Illinois,5/8/2021,63435.24,-4721970545,Poor,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1332,Frank,Brown,35,Finance-Texas,4/11/2022,82129.84,-6927589550,Average,False
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1333,David,Williams,35,DevOps-Texas,10/23/2024,95492.61,-6874090379,Good,False
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1334,Grace,Miller,40,Finance-Illinois,4/24/2020,94572.37,-2146296135,Good,False
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1335,Bob,Garcia,40,Finance-Nevada,3/4/2023,118413.05,-7157787111,Poor,False
+,,,,alice.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1336,Alice,Jones,30,Admin-Nevada,8/31/2022,68976.65,-1663651558,Poor,True
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1337,Eva,Williams,,Sales-Nevada,1/2/2021,115013.65,-7371470826,Average,False
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1338,David,Brown,,Admin-Nevada,6/6/2020,70949.38,-2359096055,Poor,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1339,Grace,Brown,,HR-Florida,10/13/2020,105334.87,-7303064420,Average,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1340,Bob,Williams,,DevOps-California,7/19/2020,80596.18,-2146147682,Good,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1341,Frank,Brown,,Sales-Illinois,5/3/2024,72846.37,-4201654234,Good,True
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1342,Heidi,Williams,40,Admin-California,2/7/2022,80229.36,-6778265959,Excellent,False
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1343,Grace,Johnson,25,Sales-California,12/31/2023,55145.47,-8931992549,Good,False
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1344,Grace,Williams,30,DevOps-Florida,1/8/2022,,-2727516479,Poor,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1345,Eva,Davis,40,HR-California,9/28/2020,56110.81,-7279103367,Good,False
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1346,Grace,Williams,25,Cloud Tech-Texas,2/9/2023,56514.5,-2963533904,Average,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1347,Frank,Brown,40,Cloud Tech-California,3/5/2022,104541.84,-5044817765,Good,False
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1348,David,Garcia,,Sales-New York,2/18/2022,61865.12,-5586851275,Excellent,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1349,Eva,Davis,40,Admin-Texas,6/9/2022,69317.33,-5289286645,Good,False
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1350,Bob,Brown,35,HR-New York,7/4/2023,84706.17,-4911110960,Average,False
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1351,Heidi,Smith,25,Admin-California,3/21/2022,73255.21,-7981789045,Average,False
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1352,Frank,Smith,40,HR-Florida,5/2/2023,59528.71,-3378613714,Poor,False
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1353,David,Garcia,40,HR-New York,10/15/2021,70401.37,-7660538443,Good,True
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1354,Heidi,Garcia,,Admin-California,7/28/2021,107154.62,-4630600024,Average,True
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1355,Bob,Davis,,Admin-Illinois,1/3/2021,97719.88,-8955296385,Excellent,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1356,Heidi,Johnson,30,Finance-California,5/21/2020,107327.59,-3960962625,Poor,False
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1357,Grace,Garcia,40,Admin-Nevada,5/10/2021,67687.72,-5826312818,Excellent,True
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1358,Grace,Smith,40,Cloud Tech-Florida,9/8/2022,90757.08,-6482531105,Good,True
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1359,Grace,Williams,,Cloud Tech-California,7/21/2024,87583.42,-920981959,Good,False
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1360,Bob,Brown,25,Admin-Nevada,12/28/2021,61643.69,-2752334382,Good,True
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1361,Grace,Smith,35,Finance-Texas,7/20/2020,68111.69,-6404120910,Poor,False
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1362,David,Smith,40,HR-Florida,4/30/2024,97568.88,-7911244210,Average,True
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1363,Charlie,Johnson,35,Cloud Tech-Florida,8/28/2021,79118.28,-7536170616,Poor,True
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1364,Bob,Davis,30,HR-California,7/21/2022,104898.9,-1366572239,Excellent,True
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1365,Frank,Davis,40,Cloud Tech-Florida,11/27/2023,81671.3,-2990155798,Poor,True
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1366,Alice,Miller,25,Cloud Tech-California,8/11/2020,97399.75,-8028413907,Excellent,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1367,David,Johnson,,Admin-Illinois,11/8/2021,89189.43,-882351304,Poor,True
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1368,David,Williams,40,DevOps-New York,8/4/2023,96011.55,-2312447314,Average,True
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1369,David,Davis,40,Sales-Florida,1/10/2020,99331.49,-8477686341,Excellent,False
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1370,Bob,Brown,,Cloud Tech-Illinois,1/19/2022,72818.94,-3461994236,Good,True
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1371,Eva,Garcia,40,Sales-Nevada,5/7/2023,77204.75,-6769459195,Good,True
+,,,,bob.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1372,Bob,Johnson,35,HR-Florida,12/19/2020,106961.68,-6395517207,Poor,False
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1373,Eva,Garcia,,Sales-Texas,10/1/2020,71923,-4964985600,Good,True
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1374,Bob,Smith,30,HR-Nevada,11/12/2022,77192.43,-2562531354,Excellent,False
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1375,Grace,Brown,40,Admin-Florida,1/5/2023,98540.3,-2510505378,Good,False
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1376,Charlie,Brown,,Admin-Florida,10/14/2020,63096.9,-5381649382,Average,False
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1377,Alice,Smith,35,Cloud Tech-Florida,2/3/2021,107065.12,-1849196654,Average,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1378,Heidi,Johnson,40,DevOps-Florida,12/25/2023,108792.43,-3307704610,Poor,True
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1379,Bob,Smith,,Cloud Tech-New York,3/7/2020,69239.7,-7295963903,Excellent,False
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1380,Charlie,Garcia,40,Sales-Nevada,1/30/2023,85756.42,-907426087,Average,True
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1381,Eva,Miller,,HR-Illinois,4/5/2024,100328.62,-501716444,Average,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1382,Grace,Brown,25,DevOps-Nevada,9/1/2021,111236.69,-5618579063,Excellent,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1383,Eva,Jones,35,Cloud Tech-Florida,5/7/2024,106832.22,-7715910299,Good,True
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1384,Frank,Jones,,DevOps-Florida,6/15/2023,59746.45,-2156321357,Good,True
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1385,David,Garcia,25,Sales-California,7/29/2021,91780.04,-40104144,Poor,True
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1386,Eva,Williams,35,Sales-California,10/23/2023,107062.66,-9642297124,Good,True
+,,,,grace.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1387,Grace,Davis,25,HR-Nevada,12/7/2023,110625.52,-2967188396,Excellent,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1388,Frank,Smith,30,DevOps-Florida,10/18/2020,90419.79,-7457314414,Average,True
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1389,Grace,Smith,40,Finance-Texas,6/15/2024,111608.76,-8331170302,Good,True
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1390,Eva,Williams,35,Finance-Florida,4/6/2023,50173.12,-7637153987,Poor,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1391,Bob,Williams,40,DevOps-Nevada,1/3/2022,109507.44,-5472812355,Good,False
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1392,Grace,Garcia,30,Finance-New York,7/3/2021,72600.56,-7983631461,Excellent,False
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1393,Charlie,Garcia,,Finance-California,4/10/2024,53388.65,-4912711306,Poor,True
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1394,Heidi,Williams,25,Cloud Tech-New York,7/23/2022,50047.32,-2407875417,Good,False
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1395,David,Brown,30,DevOps-California,11/25/2024,115290.79,-1563268684,Poor,False
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1396,Frank,Garcia,35,Cloud Tech-California,8/21/2023,61586.76,-745106633,Excellent,False
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1397,Eva,Miller,30,Finance-Nevada,12/12/2023,56662.86,-3629489785,Average,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1398,Bob,Garcia,30,Sales-New York,10/24/2023,,-1031310093,Excellent,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1399,Frank,Smith,25,Finance-Nevada,9/5/2022,54957.98,-3181439665,Excellent,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1400,Bob,Garcia,25,HR-California,10/7/2020,76790.47,-1347323548,Excellent,True
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1401,Charlie,Brown,30,Cloud Tech-Illinois,1/18/2020,92722.35,-4012897431,Excellent,False
+,,,,frank.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1402,Frank,Williams,30,DevOps-Nevada,4/23/2022,93125.32,-5122572075,Average,False
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1403,David,Smith,25,Cloud Tech-New York,4/22/2023,101100.64,-5024120956,Average,False
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1404,Grace,Garcia,35,Admin-New York,8/13/2023,55897.41,-9073710093,Poor,False
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1405,Eva,Brown,25,DevOps-California,11/26/2022,92484.88,-3882211456,Good,True
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1406,Grace,Miller,35,DevOps-Texas,10/10/2022,77011.99,-7584745704,Average,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1407,Bob,Garcia,,Cloud Tech-California,9/27/2020,77078.68,-4589714801,Average,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1408,Grace,Brown,35,Sales-Nevada,4/11/2024,82971.02,-6325703964,Good,False
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1409,Bob,Miller,25,Sales-Texas,6/20/2021,65102.01,-3136148781,Average,True
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1410,Grace,Williams,,HR-Nevada,10/23/2022,103697.7,-4556964429,Excellent,True
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1411,Grace,Garcia,25,DevOps-Illinois,6/15/2023,60687.63,-9859167953,Excellent,False
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1412,Bob,Miller,,Admin-New York,10/31/2021,77351.21,-1072728497,Good,False
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1413,Bob,Smith,35,DevOps-Florida,9/29/2024,66704.62,-2474140702,Poor,True
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1414,Grace,Williams,25,Finance-Illinois,4/22/2020,71650.3,-4910740649,Poor,True
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1415,Charlie,Smith,25,Cloud Tech-Nevada,12/7/2023,50794.54,-425488213,Good,True
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1416,Frank,Jones,,Sales-Nevada,12/7/2020,76030.86,-2369143074,Good,True
+,,,,eva.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1417,Eva,Johnson,25,Cloud Tech-California,7/11/2021,86669.79,-3666144941,Excellent,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1418,Bob,Garcia,40,Finance-Illinois,4/23/2020,84972.7,-9659234267,Poor,True
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1419,Frank,Miller,30,HR-Texas,10/12/2023,100594.49,-3441497825,Average,False
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1420,Alice,Johnson,25,Cloud Tech-New York,8/24/2022,75478.35,-6128758574,Excellent,False
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1421,Charlie,Johnson,25,Sales-Nevada,9/4/2023,79355.85,-6766708060,Good,False
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1422,Grace,Miller,35,HR-Texas,2/2/2022,58358.07,-2943985297,Poor,True
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1423,Alice,Williams,30,Admin-Illinois,4/1/2022,54824.85,-9406260786,Average,False
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1424,Eva,Garcia,35,HR-Texas,7/24/2022,50557.84,-104159148,Average,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1425,Eva,Jones,,Admin-Florida,4/26/2023,118030.04,-7501980381,Excellent,True
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1426,David,Smith,,Admin-New York,4/19/2022,51673.72,-8723244078,Poor,False
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1427,Alice,Brown,35,Cloud Tech-Nevada,10/4/2024,101665.79,-3110291812,Poor,True
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1428,David,Smith,,Admin-Florida,5/2/2020,118079.15,-3170876013,Good,True
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1429,Eva,Brown,25,Cloud Tech-New York,4/25/2022,99059.28,-6723849790,Poor,False
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1430,Bob,Smith,,Cloud Tech-Illinois,7/29/2023,107397.4,-6202232882,Poor,False
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1431,Alice,Miller,40,DevOps-New York,8/20/2021,68269.37,-7744197545,Excellent,False
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1432,Grace,Jones,35,HR-Florida,4/23/2021,55228.12,-6176620470,Poor,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1433,Bob,Garcia,30,Cloud Tech-New York,8/12/2022,71982.33,-9609409704,Average,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1434,Frank,Brown,30,Finance-California,6/26/2021,109673.75,-2774025882,Excellent,False
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1435,Eva,Garcia,,Cloud Tech-New York,10/30/2020,56384.9,-5868122594,Excellent,True
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1436,Frank,Garcia,40,Sales-Texas,9/4/2021,68211.68,-7244617678,Good,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1437,Alice,Garcia,40,Finance-Illinois,1/31/2023,67489.68,-2988425994,Poor,False
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1438,Charlie,Davis,25,Cloud Tech-Texas,9/24/2020,63869.31,-9961002310,Good,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1439,Bob,Williams,,Sales-California,2/14/2020,119801.3,-7753312660,Average,True
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1440,Heidi,Smith,30,Cloud Tech-California,3/28/2020,115959.65,-941017589,Excellent,True
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1441,Grace,Garcia,40,Finance-Texas,10/31/2023,79866.48,-2517629832,Excellent,True
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1442,Charlie,Smith,35,HR-Florida,3/11/2020,92987.46,-4774332682,Excellent,True
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1443,Eva,Garcia,40,Finance-Illinois,5/4/2020,56140.51,-1901302055,Average,False
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1444,Grace,Brown,30,DevOps-Illinois,7/15/2023,119586.11,-9815287338,Average,True
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1445,Alice,Williams,40,DevOps-California,1/20/2023,104700.46,-7855982175,Good,True
+,,,,frank.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1446,Frank,Williams,40,HR-New York,10/15/2021,91798.14,-6191284116,Good,False
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1447,Eva,Miller,25,Finance-Illinois,4/19/2024,90879.22,-3098503445,Good,False
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1448,Charlie,Davis,25,Admin-Nevada,6/29/2021,87358.27,-5124189388,Poor,False
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1449,Alice,Miller,30,Sales-Florida,9/14/2024,119407.93,-8469081973,Excellent,True
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1450,David,Miller,,HR-Nevada,1/4/2022,113978.6,-56435022,Excellent,True
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1451,Frank,Miller,,Sales-New York,1/20/2021,108568.78,-8503719904,Good,True
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1452,Heidi,Miller,,HR-New York,3/18/2020,56318.02,-1699187239,Excellent,False
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1453,David,Miller,25,Sales-Florida,11/10/2021,114252.73,-1078356742,Good,False
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1454,Charlie,Jones,35,DevOps-New York,5/1/2020,51533.9,-3896086,Poor,True
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1455,Charlie,Williams,25,Sales-California,2/4/2022,99317.66,-662668216,Poor,False
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1456,Bob,Miller,35,HR-California,11/18/2020,101264.64,-1955356032,Average,False
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1457,Heidi,Garcia,35,Admin-Nevada,11/21/2023,112272.02,-1903689002,Poor,False
+,,,,frank.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1458,Frank,Williams,30,DevOps-Illinois,2/13/2022,71477.63,-102724054,Good,True
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1459,Charlie,Williams,30,DevOps-Texas,3/19/2023,77412.1,-9342967110,Poor,False
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1460,Alice,Johnson,30,Sales-California,3/28/2021,94775.27,-4837537457,Average,False
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1461,Heidi,Jones,30,HR-Nevada,5/2/2021,74276.71,-4384588104,Excellent,True
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1462,Bob,Miller,35,Finance-Texas,3/5/2021,67467.86,-6974132833,Good,True
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1463,Eva,Smith,25,DevOps-Texas,3/1/2022,80675.41,-8315203770,Excellent,False
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1464,Charlie,Brown,40,Finance-Florida,1/23/2023,76274.33,-704496409,Average,False
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1465,David,Davis,30,Finance-Texas,8/26/2021,51405.46,-4967066702,Average,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1466,Bob,Garcia,25,HR-New York,11/25/2020,101238.96,-3626804084,Average,True
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1467,Bob,Smith,35,Sales-Illinois,12/13/2023,52169.52,-954930595,Excellent,False
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1468,Charlie,Jones,,Finance-New York,7/26/2020,73176.62,-6018648768,Excellent,False
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1469,Grace,Brown,,DevOps-Nevada,6/27/2021,96241.85,-9842673203,Excellent,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1470,Bob,Jones,25,Finance-Illinois,9/16/2024,84366.38,-4138459608,Excellent,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1471,Alice,Garcia,40,Cloud Tech-California,7/4/2023,92015.09,-4544901494,Average,True
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1472,Alice,Williams,30,Admin-Nevada,6/16/2020,83149.95,-4277070704,Average,False
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1473,Grace,Brown,40,Finance-Nevada,7/5/2020,94930.65,-7836091497,Good,False
+,,,,frank.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1474,Frank,Williams,40,HR-New York,4/1/2020,68430.72,-5172444722,Good,True
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1475,David,Garcia,35,Sales-Texas,3/20/2024,98752.97,-2290310286,Excellent,False
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1476,Frank,Smith,,Finance-Illinois,2/7/2023,54268.86,-9508304404,Poor,True
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1477,Grace,Garcia,,DevOps-Florida,12/10/2024,66494.94,-8093511870,Poor,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1478,Grace,Smith,25,Sales-Illinois,6/27/2024,90003.98,-8133595615,Average,False
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1479,Charlie,Brown,25,Finance-New York,3/9/2021,106592.25,-4205955656,Average,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1480,Grace,Brown,25,DevOps-Florida,8/11/2024,93905.83,-4902504289,Average,True
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1481,Eva,Miller,35,DevOps-Texas,3/5/2022,88945.49,-1935889535,Good,False
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1482,Eva,Jones,,Finance-Texas,6/30/2023,91130.33,-9026113988,Good,False
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1483,Bob,Miller,40,Admin-New York,4/19/2023,90787.4,-8681809787,Average,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1484,Bob,Jones,25,Sales-Texas,11/11/2024,87494.34,-7543943534,Average,True
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1485,Grace,Miller,35,Finance-Nevada,3/17/2023,92627.35,-3751376514,Average,False
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1486,Eva,Williams,40,Admin-Illinois,10/26/2023,98556.29,-8815793762,Poor,True
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1487,Frank,Brown,30,Cloud Tech-Nevada,7/4/2021,112792.2,-9283692943,Good,True
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1488,Eva,Smith,35,HR-Florida,11/3/2023,56875.22,-5511668296,Poor,False
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1489,Charlie,Jones,35,DevOps-Florida,7/5/2021,101015.96,-3270216486,Poor,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1490,Bob,Garcia,30,Finance-New York,2/26/2024,83912.22,-1206021287,Average,False
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1491,Frank,Jones,25,Sales-New York,9/29/2021,99669.86,-6652683414,Average,False
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1492,Alice,Smith,30,Admin-New York,5/25/2021,52314.97,-5999101575,Excellent,False
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1493,Frank,Miller,30,HR-California,10/31/2022,77785.96,-7647229811,Excellent,False
+,,,,alice.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1494,Alice,Jones,30,HR-Florida,7/2/2022,62430.86,-995765727,Poor,False
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1495,Frank,Davis,35,Admin-California,8/28/2024,98219.54,-9413475097,Good,True
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1496,Grace,Williams,25,Admin-Illinois,10/21/2024,65494.58,-8986456521,Average,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1497,David,Brown,35,DevOps-Florida,2/11/2020,110524.1,-368499514,Average,False
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1498,Alice,Smith,40,Admin-Nevada,5/16/2023,106060.54,-4214477323,Poor,False
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1499,Eva,Brown,35,Finance-Florida,7/29/2022,67639.91,-4913421387,Excellent,True
+,,,,grace.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1500,Grace,Davis,,Cloud Tech-Texas,9/18/2023,117653.98,-2090883069,Good,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1501,Eva,Jones,35,DevOps-Texas,5/10/2020,73539.86,-5349678273,Excellent,True
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1502,Frank,Jones,35,HR-Nevada,8/27/2023,70915.38,-1176741240,Excellent,True
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1503,David,Garcia,25,Sales-Florida,10/16/2021,97652.9,-5131528546,Excellent,False
+,,,,heidi.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1504,Heidi,Davis,35,HR-Florida,3/6/2022,101571.25,-8150618537,Excellent,False
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1505,David,Smith,35,DevOps-Nevada,11/6/2023,87424.46,-32963346,Average,True
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1506,Frank,Garcia,,HR-New York,11/30/2024,89077.36,-2727423182,Average,False
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1507,Heidi,Williams,30,DevOps-California,7/13/2024,89132.22,-617893205,Excellent,True
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1508,Frank,Garcia,25,Admin-California,3/4/2024,111000.26,-4969357823,Good,False
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1509,Frank,Johnson,35,HR-Illinois,8/7/2022,109584.97,-3477695873,Poor,True
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1510,Bob,Smith,40,Admin-Illinois,11/11/2024,97648.84,-1314675360,Good,False
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1511,Grace,Johnson,25,Admin-New York,12/2/2021,78643.43,-2751562778,Good,True
+,,,,heidi.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1512,Heidi,Davis,30,HR-Nevada,5/14/2024,55656.8,-6304483607,Good,True
+,,,,charlie.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1513,Charlie,Miller,35,DevOps-Texas,7/14/2022,69146.95,-5456676639,Excellent,False
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1514,Charlie,Johnson,,Admin-Florida,9/22/2020,93013.58,-4735047638,Average,True
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1515,Grace,Williams,40,Finance-Florida,3/18/2020,87364.78,-2831995297,Good,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1516,Alice,Garcia,35,Sales-New York,10/17/2023,50288.67,-61558107,Excellent,False
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1517,David,Miller,35,HR-New York,2/24/2022,85233.55,-3583286341,Good,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1518,Bob,Garcia,25,HR-California,1/30/2024,86420.19,-5563830007,Good,False
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1519,Grace,Johnson,30,HR-Florida,3/16/2024,63189.82,-1867024402,Excellent,False
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1520,Grace,Garcia,25,Admin-New York,9/25/2020,64783.32,-3041662410,Average,False
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1521,Charlie,Davis,25,HR-Nevada,6/10/2024,52615.44,-1860089218,Average,False
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1522,Eva,Miller,,Sales-Texas,4/8/2020,96337.89,-6394568043,Poor,False
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1523,Alice,Davis,25,DevOps-Texas,6/28/2022,76617.76,-7314976460,Excellent,True
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1524,Heidi,Johnson,30,Admin-Nevada,7/14/2023,50651.32,-3684748835,Poor,False
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1525,Bob,Davis,,HR-Illinois,12/6/2023,59601.45,-765817389,Poor,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1526,Bob,Williams,,DevOps-Illinois,8/1/2021,57980.88,-6375791451,Poor,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1527,David,Johnson,,Admin-California,2/17/2021,75054.53,-1182379311,Average,False
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1528,Charlie,Johnson,25,Sales-Florida,11/10/2023,115318.7,-6978930745,Excellent,False
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1529,Alice,Johnson,25,DevOps-Texas,9/6/2024,90190.69,-4520599603,Poor,True
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1530,Bob,Smith,,Cloud Tech-Nevada,7/26/2020,113334.56,-3878753576,Excellent,False
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1531,Heidi,Garcia,35,HR-Florida,7/23/2020,106922.49,-8811616201,Excellent,True
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1532,Eva,Smith,35,DevOps-California,2/21/2024,58113.07,-8123710671,Average,True
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1533,Alice,Smith,25,Admin-Nevada,12/15/2020,73006.26,-8728660415,Poor,True
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1534,Eva,Williams,25,HR-California,8/21/2020,78054.43,-4485959223,Poor,True
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1535,Eva,Miller,40,DevOps-Florida,8/21/2023,112028.67,-8395894772,Excellent,False
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1536,Charlie,Garcia,25,Admin-Texas,4/24/2023,83787.24,-5228705621,Good,True
+,,,,heidi.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1537,Heidi,Davis,30,Sales-Florida,6/6/2023,52017.14,-7104331874,Average,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1538,Charlie,Jones,40,Finance-Texas,6/21/2022,53218.06,-1097921582,Average,False
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1539,Frank,Johnson,25,DevOps-Nevada,4/20/2024,102053.67,-5034469458,Average,False
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1540,David,Davis,35,Sales-Illinois,12/5/2023,93276.73,-6488319212,Average,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1541,David,Johnson,40,HR-Nevada,8/6/2023,76941.36,-4249128964,Poor,True
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1542,Alice,Williams,25,DevOps-New York,10/4/2024,82850.23,-9994973202,Poor,False
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1543,Charlie,Johnson,25,Finance-California,11/8/2021,117910.15,-3192227050,Good,False
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1544,David,Smith,,DevOps-Florida,7/31/2024,66450,-287675480,Average,True
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1545,Heidi,Garcia,25,Finance-Florida,8/31/2020,118646.95,-3866675484,Average,False
+,,,,alice.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1546,Alice,Jones,25,Finance-Florida,2/15/2023,88436.92,-8193242686,Excellent,False
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1547,Eva,Brown,,Sales-New York,10/7/2023,81934.55,-7418652056,Poor,False
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1548,Alice,Johnson,30,Finance-California,4/20/2024,93383.06,-5639836519,Average,False
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1549,Frank,Davis,40,Cloud Tech-Texas,3/30/2021,50153.79,-3758309450,Good,True
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1550,Eva,Smith,,Sales-California,8/5/2020,53204.47,-5480940475,Good,False
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1551,Charlie,Brown,40,Cloud Tech-California,2/5/2021,63128.04,-440907976,Poor,False
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1552,Grace,Jones,30,Finance-New York,11/23/2021,57543.6,-2781050921,Good,True
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1553,Bob,Brown,40,Finance-Nevada,10/29/2022,59424.52,-2161070517,Good,False
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1554,Alice,Smith,,Finance-Illinois,11/7/2022,104675.7,-4390552957,Poor,True
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1555,Charlie,Garcia,30,Cloud Tech-Florida,5/14/2023,92431.25,-660138240,Average,False
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1556,Grace,Garcia,40,Sales-Nevada,7/14/2021,77850.9,-2704938619,Average,True
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1557,Eva,Miller,40,Admin-New York,5/18/2023,99001,-4485157918,Good,True
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1558,Eva,Garcia,,HR-Nevada,2/7/2023,94280.83,-7111212589,Good,True
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1559,Eva,Miller,35,DevOps-New York,8/24/2023,118262.56,-2035713431,Average,True
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1560,Frank,Brown,25,HR-Illinois,4/8/2023,89944.67,-4064242955,Poor,False
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1561,Grace,Williams,,HR-Florida,12/6/2022,57452.93,-3343244740,Good,True
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1562,Alice,Davis,25,Admin-California,8/9/2021,97837.32,-7595587208,Excellent,False
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1563,Alice,Davis,35,Admin-Illinois,1/4/2022,106981.84,-6289365434,Poor,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1564,David,Brown,,Finance-New York,5/25/2024,105778.36,-8841834373,Good,True
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1565,Alice,Johnson,40,Finance-Florida,10/2/2021,117608.32,-182727954,Good,True
+,,,,eva.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1566,Eva,Johnson,30,Sales-Florida,7/21/2023,99324.03,-9690515025,Excellent,False
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1567,David,Garcia,30,HR-Florida,10/30/2023,55212.83,-7551254277,Excellent,True
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1568,Bob,Davis,40,Cloud Tech-Florida,2/13/2023,68496.77,-2079799666,Average,False
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1569,Eva,Davis,25,HR-Florida,11/13/2020,52795.84,-3459576402,Poor,False
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1570,Alice,Miller,,DevOps-California,6/5/2024,90087.39,-8166496901,Poor,False
+,,,,frank.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1571,Frank,Williams,,Admin-New York,5/19/2020,105038.08,-8249839224,Average,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1572,Grace,Smith,25,HR-New York,9/20/2023,73231.85,-142576269,Poor,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1573,David,Johnson,,Sales-Florida,8/13/2024,102649.36,-2324412335,Poor,False
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1574,Bob,Davis,35,Finance-New York,6/10/2023,114302.51,-1328507250,Poor,False
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1575,Alice,Miller,35,Finance-Texas,6/9/2021,87816.61,-7863767315,Poor,False
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1576,Frank,Jones,,Sales-Florida,3/30/2020,70750.38,-2526546967,Poor,False
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1577,Frank,Miller,,Cloud Tech-Texas,5/2/2024,,-1579039234,Excellent,True
+,,,,bob.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1578,Bob,Johnson,30,DevOps-Nevada,11/6/2024,97978.36,-5580996131,Poor,True
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1579,David,Johnson,,DevOps-Nevada,8/17/2023,107172.8,-7303461561,Excellent,True
+,,,,charlie.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1580,Charlie,Miller,25,Finance-Nevada,3/18/2020,56126.46,-6244670461,Poor,True
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1581,Eva,Smith,,Cloud Tech-Illinois,6/13/2021,78534.29,-2681715159,Average,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1582,Grace,Brown,40,HR-Texas,10/10/2023,,-2529867075,Good,False
+,,,,bob.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1583,Bob,Johnson,,Cloud Tech-Nevada,1/2/2022,114963.34,-6046419784,Excellent,False
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1584,Eva,Miller,,Cloud Tech-California,2/20/2022,77657.93,-7585126860,Poor,False
+,,,,heidi.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1585,Heidi,Davis,30,Sales-New York,3/9/2024,77369.48,-2059438975,Average,False
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1586,Eva,Miller,30,HR-Nevada,8/19/2023,76119.14,-740177508,Good,False
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1587,Charlie,Williams,25,Cloud Tech-Texas,5/6/2023,77585.72,-5465408423,Excellent,False
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1588,Bob,Brown,35,Admin-Nevada,1/26/2024,74069.62,-5607540914,Good,False
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1589,Charlie,Jones,30,Admin-New York,9/5/2024,67691.92,-863218121,Average,True
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1590,Alice,Smith,,Finance-Nevada,5/29/2020,70345.69,-7645793896,Excellent,True
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1591,Bob,Garcia,30,DevOps-Illinois,11/8/2021,74999.69,-155029167,Good,True
+,,,,david.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1592,David,Jones,25,HR-Illinois,1/31/2021,72245.02,-1546602415,Poor,True
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1593,Eva,Brown,,Admin-Illinois,1/16/2022,106538.98,-1394498829,Excellent,False
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1594,Charlie,Brown,25,HR-New York,12/29/2023,101787.14,-5973642479,Good,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1595,Frank,Brown,30,DevOps-Nevada,12/2/2024,83596.78,-9624406305,Average,False
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1596,Eva,Jones,40,Sales-Texas,8/15/2023,92463.94,-2447951329,Average,True
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1597,Charlie,Davis,,Admin-California,12/20/2024,93863.32,-5319497968,Excellent,False
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1598,Alice,Brown,,DevOps-Texas,3/31/2023,78359.41,-5867805554,Good,False
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1599,Alice,Miller,,HR-Illinois,8/24/2022,95773.57,-7277382645,Excellent,False
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1600,Grace,Jones,30,Sales-Nevada,10/1/2020,82529.08,-917851384,Excellent,True
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1601,Grace,Garcia,35,Sales-Texas,5/4/2021,109358.73,-4457702991,Good,False
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1602,Charlie,Brown,,Admin-Florida,1/1/2021,89645.01,-9596604872,Good,True
+,,,,charlie.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1603,Charlie,Miller,40,HR-Texas,4/8/2024,84134.95,-6826911632,Poor,True
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1604,Frank,Davis,30,Cloud Tech-Nevada,11/26/2022,113540.83,-1942268652,Good,True
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1605,Heidi,Williams,40,Cloud Tech-Texas,10/25/2021,57225.75,-6945515887,Average,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1606,Eva,Davis,35,Sales-Illinois,12/22/2020,76366.17,-6367747225,Excellent,False
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1607,Bob,Garcia,,HR-Florida,11/23/2022,78408.95,-4085721695,Excellent,True
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1608,Frank,Brown,40,Finance-Illinois,10/24/2022,111742.4,-6630932997,Average,True
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1609,David,Garcia,25,Sales-Nevada,3/9/2021,60516.83,-1996059328,Good,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1610,Bob,Jones,30,Finance-California,8/20/2020,83706.17,-7150968831,Average,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1611,David,Johnson,,Admin-Nevada,2/15/2020,67056.92,-7532735240,Average,True
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1612,Charlie,Brown,30,DevOps-Illinois,12/29/2024,90058.85,-397739731,Poor,False
+,,,,eva.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1613,Eva,Johnson,30,Sales-Florida,2/28/2023,94633.59,-7819523709,Average,True
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1614,Eva,Miller,25,Admin-Florida,8/23/2022,110711.17,-687616480,Excellent,True
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1615,Grace,Williams,,Admin-Illinois,6/30/2023,96175.41,-9807704604,Average,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1616,Frank,Smith,40,Sales-Illinois,4/15/2021,76474.79,-6876112490,Excellent,True
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1617,Alice,Garcia,30,Sales-Illinois,5/9/2022,107855.99,-2565237340,Excellent,False
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1618,Charlie,Davis,40,Sales-Illinois,12/2/2024,104870.78,-5177345474,Excellent,True
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1619,Bob,Williams,25,Finance-Nevada,5/20/2023,,-7494902283,Good,False
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1620,Grace,Brown,,Finance-California,11/29/2023,87087.16,-359544293,Poor,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1621,Heidi,Johnson,40,HR-Illinois,4/8/2024,108603.34,-7742229463,Excellent,False
+,,,,grace.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1622,Grace,Davis,30,HR-Florida,10/25/2024,55867.23,-3039429044,Excellent,False
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1623,Grace,Johnson,35,Admin-Texas,3/2/2024,105259.57,-8867925297,Good,True
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1624,Bob,Jones,,Cloud Tech-Florida,2/24/2021,98143.67,-5856728726,Excellent,False
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1625,Frank,Johnson,25,Admin-Florida,4/13/2023,67754.29,-6015343323,Average,True
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1626,Grace,Jones,,HR-Illinois,10/25/2023,77821.79,-9135779082,Average,False
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1627,Heidi,Miller,30,HR-Illinois,9/17/2022,67764.44,-3506158147,Poor,False
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1628,Frank,Davis,40,DevOps-New York,8/31/2020,102346.99,-8810798333,Excellent,True
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1629,Charlie,Davis,25,Admin-Illinois,5/28/2024,73690.65,-2337209483,Good,True
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1630,Alice,Smith,30,Finance-Nevada,7/5/2024,56376.2,-1312840332,Average,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1631,Grace,Brown,25,Cloud Tech-California,1/29/2022,55602.78,-9977180512,Good,False
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1632,Grace,Jones,40,Sales-Nevada,8/9/2021,99812.41,-7171731892,Good,False
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1633,Charlie,Smith,40,Finance-Texas,10/7/2024,95981.9,-9749096172,Average,True
+,,,,eva.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1634,Eva,Johnson,30,Cloud Tech-Illinois,11/22/2022,98891.48,-9970469471,Good,True
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1635,Alice,Johnson,35,Admin-Nevada,11/18/2020,56079,-5878444834,Average,True
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1636,Grace,Smith,35,DevOps-Florida,4/15/2023,,-4884712704,Good,True
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1637,Bob,Davis,25,Sales-California,8/26/2024,89137.97,-8772216416,Average,False
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1638,Frank,Johnson,35,Admin-Illinois,7/20/2022,115079.97,-5823133483,Excellent,True
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1639,Eva,Garcia,30,Finance-Illinois,2/18/2023,55067.02,-5871493924,Poor,True
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1640,Bob,Miller,,HR-Illinois,5/27/2021,98593.43,-2362292586,Average,True
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1641,Heidi,Miller,30,HR-Florida,8/1/2022,112756.67,-9643474523,Average,True
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1642,Heidi,Garcia,25,HR-Texas,7/21/2023,105205.92,-5557469659,Poor,False
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1643,David,Smith,35,Finance-California,1/2/2023,50680.62,-6065274032,Average,True
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1644,David,Garcia,35,Cloud Tech-Florida,3/13/2024,107475.23,-4450566587,Average,False
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1645,Charlie,Jones,40,HR-California,3/20/2023,68835.3,-3398741131,Good,True
+,,,,david.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1646,David,Jones,40,DevOps-New York,2/15/2024,66943.96,-5797067348,Poor,True
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1647,David,Smith,30,Admin-Illinois,11/15/2020,104525.69,-9601054856,Excellent,False
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1648,Bob,Garcia,40,Sales-Texas,3/27/2020,109360.74,-4172156228,Average,True
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1649,Frank,Jones,40,Sales-California,1/9/2021,118907.63,-4938173597,Poor,False
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1650,Eva,Davis,40,Admin-Illinois,4/20/2020,86801.48,-4884021556,Good,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1651,Alice,Garcia,,HR-Florida,5/8/2024,62236.03,-3257375533,Excellent,True
+,,,,heidi.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1652,Heidi,Davis,35,DevOps-Texas,10/12/2023,64752.67,-4902166669,Poor,False
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1653,Frank,Jones,35,Sales-California,1/28/2023,68399.43,-8085096084,Excellent,False
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1654,Frank,Miller,35,Admin-Florida,3/7/2021,79336.51,-8749511917,Excellent,False
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1655,Frank,Jones,40,HR-Florida,3/16/2023,59179.74,-1828197930,Excellent,False
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1656,David,Davis,25,DevOps-California,2/11/2023,80255.31,-6477251294,Average,False
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1657,Charlie,Williams,30,Finance-Texas,5/13/2022,84971.85,-7860694095,Average,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1658,Frank,Brown,40,HR-California,10/24/2024,89748.42,-35624394,Good,False
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1659,Charlie,Johnson,25,Admin-California,9/14/2024,94090.35,-8739592322,Good,False
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1660,Frank,Garcia,35,HR-California,2/15/2023,115229.12,-4210890284,Poor,True
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1661,Alice,Williams,40,Cloud Tech-California,5/25/2023,63927.07,-1553334263,Good,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1662,Charlie,Jones,35,HR-California,11/11/2022,84124.56,-3350271606,Excellent,False
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1663,Bob,Miller,40,Sales-California,7/17/2023,116961.61,-3607763368,Excellent,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1664,Frank,Smith,40,DevOps-Illinois,4/8/2022,109423.05,-1128981230,Average,False
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1665,Charlie,Jones,35,Admin-California,8/30/2023,70394.94,-7955633184,Excellent,False
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1666,Grace,Miller,35,Finance-California,4/17/2023,86465.5,-7481700665,Poor,True
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1667,Charlie,Brown,30,Cloud Tech-New York,4/25/2021,96341.58,-1554164315,Excellent,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1668,Bob,Jones,30,Admin-Florida,7/14/2020,54465.47,-7045023289,Excellent,False
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1669,Alice,Davis,25,Finance-Illinois,7/31/2020,68371.66,-2822700933,Poor,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1670,Grace,Smith,35,Admin-New York,8/4/2021,81021.23,-5962622821,Good,False
+,,,,charlie.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1671,Charlie,Miller,25,Cloud Tech-Nevada,10/28/2024,114069.07,-5120734653,Good,True
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1672,Heidi,Miller,,HR-Illinois,10/3/2020,117867.96,-9500507025,Poor,False
+,,,,charlie.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1673,Charlie,Miller,,Sales-Florida,3/13/2024,94509.58,-869822104,Average,False
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1674,Eva,Brown,35,Finance-Illinois,7/6/2024,56268.78,-3161177686,Excellent,False
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1675,Grace,Jones,35,Admin-California,1/1/2020,86632.14,-2904774257,Poor,True
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1676,Charlie,Brown,35,HR-Florida,1/18/2020,98143.9,-5917793237,Excellent,False
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1677,Heidi,Garcia,35,Cloud Tech-Florida,5/7/2023,,-2231164912,Average,True
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1678,Frank,Johnson,30,Finance-Illinois,3/19/2022,67492.73,-3424579888,Excellent,True
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1679,Grace,Johnson,40,Admin-California,5/14/2022,93772.61,-4256529059,Poor,False
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1680,Eva,Garcia,35,DevOps-Nevada,7/14/2024,68817.54,-3202032649,Excellent,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1681,Bob,Jones,30,Admin-California,7/28/2023,81874.01,-9775396736,Good,True
+,,,,heidi.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1682,Heidi,Davis,30,HR-Texas,4/11/2020,117880.14,-9487148551,Average,False
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1683,Bob,Brown,35,HR-New York,6/16/2022,100897.49,-4578715840,Average,True
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1684,Charlie,Smith,25,Finance-New York,5/10/2022,71810.37,-5608213710,Average,True
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1685,Frank,Miller,40,DevOps-Texas,6/13/2020,109048.24,-8425476817,Poor,False
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1686,Alice,Miller,35,Finance-Texas,8/20/2022,62712.26,-2683230357,Average,False
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1687,Eva,Jones,40,Cloud Tech-Texas,5/24/2021,76935.85,-9298808582,Good,True
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1688,David,Davis,25,Admin-Florida,4/27/2024,56577.22,-8252129327,Poor,True
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1689,David,Johnson,40,Finance-Nevada,10/23/2021,61102.8,-9634064685,Good,True
+,,,,bob.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1690,Bob,Johnson,35,Finance-Nevada,2/10/2021,75229.87,-7752401483,Excellent,True
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1691,David,Miller,25,Admin-Nevada,10/26/2021,51054.74,-3991062271,Excellent,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1692,Bob,Jones,40,Admin-Texas,4/5/2023,104843.27,-3626693350,Excellent,False
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1693,Charlie,Brown,35,Cloud Tech-New York,10/20/2022,56398.11,-3426192371,Excellent,False
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1694,Alice,Johnson,25,HR-Nevada,12/7/2023,87544.73,-4501848196,Good,False
+,,,,heidi.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1695,Heidi,Brown,30,HR-Illinois,3/29/2024,74312.24,-3741897214,Poor,False
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1696,David,Davis,25,DevOps-Florida,1/23/2024,59431.25,-4064176926,Poor,True
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1697,Heidi,Johnson,40,Sales-California,11/28/2023,84306.44,-4381199536,Average,False
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1698,Frank,Johnson,35,DevOps-Florida,11/11/2024,108194.47,-6601444855,Good,False
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1699,Charlie,Williams,25,Sales-New York,8/28/2021,107359.3,-4510173972,Excellent,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1700,Heidi,Johnson,25,DevOps-Illinois,2/11/2024,,-9641789968,Good,False
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1701,Frank,Garcia,,Admin-California,5/9/2020,96080.26,-8609191910,Average,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1702,Grace,Smith,30,Sales-Nevada,4/17/2024,88602.75,-3599660576,Average,True
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1703,Frank,Garcia,40,DevOps-California,7/16/2020,86624.04,-9806603919,Good,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1704,Charlie,Jones,30,Cloud Tech-New York,9/21/2022,63413.16,-5146074554,Good,True
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1705,Grace,Jones,40,Sales-Illinois,4/23/2023,67915.7,-3470574237,Good,False
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1706,Bob,Brown,25,Admin-Nevada,12/27/2024,108245.44,-8565271558,Poor,True
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1707,Alice,Garcia,35,Sales-Nevada,8/10/2024,75834.81,-8354116596,Excellent,True
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1708,Eva,Garcia,,Cloud Tech-Nevada,9/4/2024,71273.32,-2634755751,Good,False
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1709,Bob,Garcia,25,DevOps-New York,2/28/2022,63262.23,-2501394883,Good,False
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1710,David,Davis,,DevOps-New York,3/14/2024,89069.91,-8826913118,Good,False
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1711,Frank,Johnson,40,DevOps-Nevada,12/13/2024,57287.17,-6425856260,Average,True
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1712,Grace,Smith,,HR-Nevada,12/29/2022,119890.35,-4991537037,Average,True
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1713,Frank,Brown,35,Sales-California,4/24/2022,103492.91,-2407333372,Poor,False
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1714,Frank,Garcia,,Admin-Illinois,3/14/2021,76254.42,-2043097767,Excellent,False
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1715,Eva,Garcia,35,Finance-Florida,1/1/2020,100841.93,-8936289695,Poor,True
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1716,Alice,Williams,,Admin-California,9/7/2021,118907.61,-4546553584,Excellent,True
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1717,Frank,Brown,25,DevOps-California,11/13/2022,88942.62,-1253892186,Average,False
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1718,Charlie,Garcia,25,Cloud Tech-Florida,11/15/2020,59688.57,-8519358373,Average,False
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1719,David,Brown,30,HR-California,3/14/2023,77985.88,-9079779611,Average,True
+,,,,bob.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1720,Bob,Johnson,35,Finance-New York,8/18/2024,112931.69,-878057214,Poor,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1721,Bob,Williams,,DevOps-California,2/5/2024,106583.88,-1494097625,Good,True
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1722,Alice,Brown,35,HR-Florida,11/12/2024,58437.84,-3748453985,Good,True
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1723,Alice,Smith,40,Cloud Tech-California,3/25/2020,72352.16,-2895090590,Average,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1724,Frank,Smith,,DevOps-New York,4/13/2020,97154.47,-1918623391,Good,True
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1725,Heidi,Jones,,Sales-Illinois,3/30/2021,80235.5,-2071511695,Good,False
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1726,Charlie,Williams,30,HR-Texas,3/16/2023,102172.05,-6672521451,Poor,False
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1727,Eva,Williams,25,Finance-Illinois,5/3/2024,98850.94,-6471246334,Excellent,True
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1728,Heidi,Jones,,Admin-Florida,8/28/2023,89993.15,-1571840907,Average,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1729,David,Brown,30,Cloud Tech-California,10/24/2021,97931.66,-512080055,Average,True
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1730,Bob,Williams,40,Finance-California,1/25/2021,72451.69,-4099512396,Poor,True
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1731,Alice,Smith,35,Admin-California,8/9/2024,119311.14,-2835129591,Poor,True
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1732,Charlie,Smith,40,Cloud Tech-New York,11/4/2023,76167.46,-7282709080,Good,False
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1733,Bob,Garcia,25,DevOps-Texas,6/25/2023,114871.08,-4415298216,Average,False
+,,,,eva.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1734,Eva,Johnson,25,HR-Nevada,9/16/2021,81504.31,-3929578670,Excellent,False
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1735,David,Williams,,Admin-New York,12/7/2022,102524.86,-8153523735,Poor,False
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1736,Charlie,Brown,25,Finance-Illinois,12/14/2022,53043.74,-507918157,Excellent,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1737,Eva,Jones,30,DevOps-Illinois,4/18/2020,82547.26,-9988683451,Excellent,True
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1738,Bob,Jones,40,DevOps-California,10/11/2024,113900.81,-7346666169,Average,True
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1739,Bob,Brown,25,HR-Nevada,4/18/2021,118585.5,-7158796473,Average,True
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1740,Bob,Davis,35,Finance-Illinois,6/29/2020,63049.22,-803149981,Poor,True
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1741,Heidi,Miller,,DevOps-Texas,5/21/2021,114558.91,-5080046357,Average,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1742,Heidi,Johnson,40,DevOps-New York,12/11/2021,97901.79,-688285030,Average,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1743,Eva,Jones,30,Sales-California,7/5/2023,68037.56,-7235137398,Average,False
+,,,,alice.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1744,Alice,Williams,,HR-New York,11/30/2021,112802.27,-63140351,Excellent,False
+,,,,bob.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1745,Bob,Johnson,40,Sales-Nevada,11/22/2024,93786.72,-6356022938,Poor,False
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1746,David,Williams,,Admin-Florida,5/24/2023,73049.93,-4694346065,Good,False
+,,,,david.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1747,David,Davis,30,Sales-Illinois,6/26/2024,64161.72,-6437490606,Excellent,True
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1748,Charlie,Smith,40,Admin-Nevada,11/19/2020,72224.73,-2311127127,Average,False
+,,,,bob.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1749,Bob,Johnson,30,HR-New York,3/1/2020,103580.45,-5246484493,Excellent,False
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1750,Grace,Garcia,40,HR-Florida,8/9/2024,112589.11,-1163187327,Average,False
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1751,Eva,Jones,30,Admin-Texas,1/13/2021,51833.88,-771130620,Average,True
+,,,,eva.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1752,Eva,Johnson,,Sales-Illinois,5/6/2023,66252.78,-1369572789,Excellent,True
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1753,Frank,Johnson,25,DevOps-Florida,10/25/2022,109229.68,-8335090253,Poor,True
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1754,Frank,Johnson,30,Finance-Florida,10/8/2020,61465.05,-2573066247,Average,False
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1755,Grace,Miller,25,HR-Florida,2/29/2024,96993.74,-1323570712,Poor,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1756,David,Johnson,25,Admin-Florida,9/30/2022,98150.39,-9848228500,Good,True
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1757,David,Williams,40,Finance-Texas,2/14/2024,107703,-1688092549,Average,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1758,Grace,Smith,,DevOps-Illinois,1/3/2023,86766.14,-2130609068,Poor,True
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1759,Alice,Davis,,Cloud Tech-Florida,8/20/2024,111443.69,-1309810795,Poor,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1760,David,Brown,,Sales-Florida,3/21/2020,89039.07,-4967379456,Good,False
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1761,Alice,Johnson,30,HR-Florida,12/16/2024,71318.79,-7278532425,Poor,False
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1762,Heidi,Jones,30,Finance-California,4/21/2020,98296.71,-4250642075,Poor,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1763,Heidi,Johnson,40,Cloud Tech-Nevada,8/19/2020,62584,-8362536666,Good,False
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1764,Charlie,Jones,40,Finance-California,2/21/2020,62521.5,-7767555627,Average,True
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1765,David,Williams,40,Cloud Tech-California,11/17/2023,95400.35,-3333939577,Poor,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1766,Charlie,Jones,25,Cloud Tech-Texas,7/9/2022,94385.07,-6543627186,Poor,True
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1767,Grace,Garcia,,Sales-New York,2/1/2023,76642.49,-4960335825,Poor,True
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1768,Frank,Brown,,DevOps-New York,11/14/2024,60122.52,-8627036923,Excellent,True
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1769,Alice,Smith,40,HR-California,4/23/2024,117267.63,-9269326572,Good,False
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1770,Charlie,Jones,25,Admin-New York,6/29/2023,,-2759980110,Excellent,True
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1771,Heidi,Jones,40,Sales-Texas,12/12/2024,84542.68,-5155322,Good,True
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1772,Heidi,Smith,40,Finance-Florida,5/16/2023,92007.15,-4159597751,Average,True
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1773,Eva,Brown,,DevOps-Illinois,4/10/2020,62938.8,-4418222617,Average,False
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1774,Frank,Johnson,25,Admin-Texas,3/29/2023,108661.01,-9628874311,Poor,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1775,Bob,Jones,25,Cloud Tech-Florida,11/26/2020,97046.33,-7102676719,Good,False
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1776,Charlie,Smith,40,DevOps-Illinois,3/14/2020,56518.84,-9579927078,Average,False
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1777,Frank,Garcia,40,Cloud Tech-Florida,5/12/2020,70498.29,-5515122945,Good,True
+,,,,eva.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1778,Eva,Garcia,35,Sales-Florida,3/5/2021,98708.06,-2135415969,Average,True
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1779,Bob,Williams,,DevOps-Nevada,6/28/2020,83856.41,-9962543847,Excellent,False
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1780,Eva,Smith,40,Sales-California,12/12/2022,90259.99,-752034475,Average,False
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1781,Charlie,Williams,,Sales-Florida,2/2/2024,94230.03,-5047158028,Excellent,True
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1782,Charlie,Garcia,,Admin-Nevada,1/31/2021,50110.66,-904637659,Average,True
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1783,Bob,Brown,30,Sales-Florida,4/3/2020,73365.46,-4655866524,Poor,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1784,David,Johnson,25,DevOps-New York,7/30/2021,67809.23,-4837441714,Excellent,False
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1785,Eva,Smith,,Sales-California,8/21/2020,98008.51,-8102131250,Average,False
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1786,Alice,Davis,30,Admin-California,10/9/2023,83537.58,-2931100590,Poor,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1787,Alice,Garcia,30,Finance-New York,8/1/2022,112444.08,-2975191022,Excellent,True
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1788,Frank,Garcia,40,Finance-Nevada,9/6/2024,86475.13,-1211063300,Poor,True
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1789,Frank,Davis,,Sales-Texas,3/28/2023,97984.53,-6583737926,Good,True
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1790,Frank,Miller,25,Admin-California,11/25/2021,118853.31,-4907280122,Good,False
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1791,Charlie,Garcia,,Sales-Florida,5/3/2023,58179.12,-4289311324,Excellent,False
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1792,Eva,Jones,35,DevOps-Texas,4/27/2022,56075.84,-3269496842,Average,True
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1793,Frank,Brown,40,HR-New York,9/11/2021,62250.89,-6453804420,Excellent,True
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1794,Alice,Smith,30,Cloud Tech-Florida,2/21/2020,105931.77,-175096169,Poor,True
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1795,Charlie,Davis,30,HR-Florida,11/24/2024,86653.96,-1595919456,Average,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1796,Charlie,Jones,25,Sales-Nevada,2/24/2021,100719.94,-5757475832,Good,False
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1797,Bob,Davis,25,HR-Texas,10/2/2024,91600.13,-9205677566,Average,True
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1798,Heidi,Smith,25,Cloud Tech-Illinois,3/6/2024,71873.66,-7722660255,Good,True
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1799,Eva,Williams,30,HR-New York,8/9/2021,69365.47,-2650622922,Average,True
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1800,Heidi,Smith,25,HR-New York,7/14/2021,58012.23,-1067245306,Average,True
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1801,Bob,Miller,30,Sales-California,10/14/2021,68973.65,-6248433796,Average,True
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1802,Eva,Smith,,Admin-New York,9/29/2021,92928.4,-6627051156,Poor,True
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1803,Heidi,Smith,25,Admin-Texas,10/15/2023,53531.92,-9423873669,Poor,True
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1804,Bob,Miller,40,Finance-New York,5/5/2023,112389.31,-4254969191,Excellent,False
+,,,,heidi.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1805,Heidi,Brown,,HR-California,8/1/2024,63870.3,-8455259709,Excellent,False
+,,,,bob.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1806,Bob,Garcia,40,Sales-New York,7/22/2024,106164.53,-7563353573,Good,False
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1807,Bob,Smith,40,HR-Nevada,12/25/2023,103654.54,-8595325938,Poor,False
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1808,David,Miller,30,Sales-California,3/13/2022,62834.72,-9337970580,Good,True
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1809,Frank,Jones,35,Finance-Florida,5/13/2020,83273.41,-6295187793,Excellent,False
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1810,Heidi,Williams,30,HR-California,3/22/2023,58917.58,-1763425072,Good,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1811,Bob,Williams,35,Sales-Nevada,6/10/2024,71148.27,-3055978244,Excellent,True
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1812,Grace,Smith,30,Sales-New York,11/21/2020,118172.42,-7598339913,Poor,True
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1813,Frank,Brown,30,DevOps-Illinois,5/25/2024,118614.37,-388436603,Average,False
+,,,,frank.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1814,Frank,Brown,,DevOps-New York,9/19/2023,96872.36,-4324006156,Poor,False
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1815,Heidi,Jones,25,Sales-Illinois,10/28/2021,88856.14,-2768297513,Good,True
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1816,Charlie,Smith,35,Finance-Texas,8/10/2020,97985.61,-7439742924,Good,False
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1817,Grace,Williams,35,Finance-Nevada,5/5/2020,56337.31,-105875255,Poor,True
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1818,Alice,Brown,30,DevOps-New York,12/24/2022,70405.23,-8065625903,Poor,True
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1819,Heidi,Smith,30,Admin-Nevada,9/5/2021,89919.35,-5990802710,Excellent,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1820,Eva,Davis,40,DevOps-California,4/8/2023,50568.35,-2218231554,Good,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1821,Grace,Brown,30,HR-Texas,1/29/2023,,-1651768085,Good,False
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1822,Frank,Miller,25,HR-Texas,6/3/2022,99155.53,-6281372142,Poor,True
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1823,Frank,Davis,40,Finance-Florida,1/21/2023,64785.13,-3080037002,Average,True
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1824,Charlie,Garcia,30,Sales-Florida,9/16/2024,79206.48,-3228556607,Good,False
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1825,Charlie,Brown,30,Cloud Tech-Texas,2/2/2020,60079.71,-4706810389,Average,True
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1826,Grace,Williams,30,Cloud Tech-New York,7/8/2024,79109.88,-3397051957,Poor,False
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1827,Grace,Johnson,,Admin-Florida,5/18/2022,88643.5,-2632809447,Poor,False
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1828,Frank,Davis,30,Admin-Florida,1/16/2020,90455.7,-5862394534,Excellent,False
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1829,David,Garcia,,HR-Florida,3/26/2023,75687.9,-4614707985,Good,True
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1830,Heidi,Jones,35,Cloud Tech-Illinois,11/15/2023,55604.42,-3210613393,Average,False
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1831,Eva,Jones,40,Sales-Texas,12/27/2024,92704.94,-3945703942,Excellent,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1832,Bob,Williams,,Sales-California,4/18/2020,113250.97,-8040325375,Good,True
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1833,Alice,Brown,40,Finance-Illinois,3/21/2023,101367.02,-5769277893,Excellent,False
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1834,Eva,Smith,35,Admin-Texas,5/8/2023,102459.77,-3191009003,Poor,False
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1835,Eva,Brown,25,DevOps-Florida,12/12/2020,90100.2,-476921052,Good,False
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1836,Eva,Williams,,Cloud Tech-California,6/17/2020,58877.49,-3651460400,Excellent,False
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1837,Eva,Jones,35,Admin-Illinois,7/17/2021,,-4247310719,Excellent,False
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1838,Bob,Brown,,Admin-Illinois,11/5/2020,96140.89,-1137984408,Average,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1839,Charlie,Jones,35,DevOps-New York,1/5/2021,105956.04,-7123166006,Excellent,False
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1840,Frank,Davis,25,Admin-Illinois,9/11/2024,84716.38,-6762090143,Good,False
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1841,Grace,Garcia,30,DevOps-Florida,7/29/2023,61709.83,-7340433699,Good,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1842,Frank,Smith,25,DevOps-California,4/17/2020,61732.03,-9687304518,Average,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1843,Eva,Davis,40,DevOps-Illinois,2/16/2022,97845.7,-5778255881,Good,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1844,Eva,Jones,30,Sales-Florida,8/14/2021,114905.58,-5562965753,Poor,False
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1845,Frank,Jones,,DevOps-Texas,12/24/2022,94619.69,-2786561941,Good,True
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1846,Grace,Johnson,,DevOps-California,7/7/2021,68696.15,-5577820581,Good,False
+,,,,grace.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1847,Grace,Johnson,40,DevOps-Nevada,2/12/2024,97032.29,-9582923615,Excellent,False
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1848,Frank,Davis,30,HR-Illinois,10/9/2023,50593.33,-1880819047,Excellent,True
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1849,Grace,Miller,25,Sales-Texas,7/2/2022,74606.15,-2357155867,Good,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1850,Eva,Davis,30,Cloud Tech-Texas,7/7/2020,53981.73,-6395613722,Average,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1851,David,Johnson,,DevOps-Texas,9/2/2020,56047.05,-817214363,Excellent,True
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1852,Grace,Jones,,Admin-Texas,1/12/2021,67733.5,-3813000412,Average,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1853,Bob,Williams,40,HR-Florida,9/29/2023,103891.64,-2114716559,Good,True
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1854,Charlie,Davis,25,HR-Texas,3/6/2022,73285.83,-9456534698,Good,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1855,Eva,Jones,30,Finance-Texas,2/14/2021,92721.13,-7990707549,Poor,True
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1856,Heidi,Williams,25,Admin-Illinois,3/23/2021,92977.64,-4768169956,Excellent,False
+,,,,heidi.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1857,Heidi,Williams,35,Cloud Tech-Texas,5/24/2020,89994.12,-607174810,Good,True
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1858,Heidi,Johnson,25,Finance-New York,8/4/2023,50060.73,-3176539704,Poor,False
+,,,,grace.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1859,Grace,Davis,35,Admin-Nevada,3/12/2022,90224.82,-4873961028,Excellent,False
+,,,,heidi.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1860,Heidi,Brown,40,Finance-Florida,5/18/2024,106859.3,-871827495,Good,False
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1861,David,Smith,25,Finance-Nevada,9/5/2020,89707.07,-8049187273,Good,False
+,,,,frank.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1862,Frank,Johnson,35,DevOps-California,4/23/2020,94259.08,-2049561212,Excellent,True
+,,,,bob.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1863,Bob,Johnson,35,Sales-California,9/18/2024,82174.75,-7730626041,Excellent,False
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1864,David,Brown,30,Sales-Texas,9/15/2023,63370.22,-3597371121,Excellent,False
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1865,Bob,Smith,35,Finance-Texas,6/15/2022,101472.69,-2990775607,Good,True
+,,,,david.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1866,David,Jones,25,DevOps-Illinois,9/28/2022,77213.73,-5816704685,Good,False
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1867,Eva,Miller,40,Sales-Florida,3/16/2020,73749.96,-1114576831,Poor,True
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1868,Alice,Davis,40,Cloud Tech-New York,9/28/2023,86618.37,-1021923784,Average,False
+,,,,charlie.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1869,Charlie,Miller,,Admin-Texas,2/15/2024,59911.33,-8471296179,Excellent,True
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1870,Heidi,Jones,,Cloud Tech-New York,8/21/2023,59137.64,-3324260507,Good,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1871,Alice,Garcia,35,Cloud Tech-Florida,12/15/2020,108474.65,-184980424,Good,True
+,,,,bob.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1872,Bob,Johnson,25,Finance-Illinois,3/27/2021,54417.71,-3733777311,Excellent,False
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1873,Frank,Smith,40,HR-Texas,3/25/2023,88211.94,-6881228216,Average,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1874,David,Johnson,25,Sales-New York,5/9/2020,58452.18,-8192365345,Excellent,True
+,,,,grace.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1875,Grace,Williams,30,DevOps-California,12/3/2020,80706.28,-605603566,Average,True
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1876,Alice,Johnson,30,Cloud Tech-Nevada,2/9/2022,,-9327986238,Good,True
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1877,Heidi,Johnson,25,Cloud Tech-Texas,7/1/2020,99471.89,-8471690617,Average,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1878,Eva,Jones,40,DevOps-Florida,9/16/2020,64431.22,-1205464753,Poor,False
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1879,Heidi,Jones,40,Admin-New York,11/17/2023,52633.48,-8954787697,Good,False
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1880,Heidi,Jones,,Cloud Tech-Nevada,12/13/2021,79315.01,-9992751757,Poor,True
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1881,David,Miller,25,Sales-Texas,1/11/2022,110391.17,-8914444982,Excellent,False
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1882,David,Williams,40,DevOps-Nevada,7/20/2021,53714.83,-5539354357,Excellent,True
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1883,Charlie,Garcia,40,Finance-New York,10/4/2023,114587.11,-6449639242,Excellent,True
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1884,Frank,Garcia,35,Admin-Florida,11/15/2021,93177.35,-5885379820,Average,False
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1885,Heidi,Jones,25,Cloud Tech-Nevada,1/5/2023,62312.13,-4339527535,Good,False
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1886,Heidi,Smith,,Cloud Tech-Texas,1/17/2024,81137.46,-7497852490,Excellent,False
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1887,Grace,Miller,30,DevOps-Nevada,4/16/2021,104528.27,-4168601346,Excellent,False
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1888,Bob,Brown,30,DevOps-Florida,2/8/2022,112395.56,-7894896339,Good,False
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1889,Heidi,Smith,25,Finance-New York,6/2/2023,81849.36,-6791766511,Excellent,False
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1890,Charlie,Davis,40,DevOps-New York,1/4/2022,118288.91,-2150014187,Poor,False
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1891,Charlie,Davis,25,DevOps-Illinois,7/28/2021,59555.1,-4216309000,Good,True
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1892,Heidi,Smith,40,Admin-California,12/20/2024,70661.31,-5944633398,Good,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1893,Charlie,Jones,,Sales-New York,4/23/2022,109988.16,-9485320894,Good,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1894,David,Brown,,Finance-Florida,1/30/2020,101101.24,-3263890218,Poor,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1895,David,Brown,30,HR-Florida,3/31/2021,112427.58,-9471136336,Good,True
+,,,,charlie.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1896,Charlie,Miller,,Cloud Tech-Florida,3/23/2020,119389.15,-9223410345,Poor,False
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1897,Alice,Brown,40,Sales-Florida,7/16/2024,105861.23,-9967331166,Good,True
+,,,,heidi.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1898,Heidi,Davis,40,Admin-Texas,3/22/2024,50869.61,-7269608436,Average,True
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1899,David,Williams,30,HR-California,8/19/2023,,-6855078966,Excellent,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1900,Eva,Jones,30,DevOps-Florida,3/10/2024,90856.21,-9352196262,Average,True
+,,,,heidi.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1901,Heidi,Brown,30,DevOps-Florida,6/5/2024,111008.63,-3556434368,Excellent,True
+,,,,alice.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1902,Alice,Miller,25,Finance-Nevada,12/23/2022,52289.99,-7093170694,Poor,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1903,Eva,Davis,,Sales-Illinois,6/1/2024,97926.56,-5607676163,Average,True
+,,,,frank.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1904,Frank,Williams,25,Sales-Nevada,12/23/2024,53609.38,-5345472238,Good,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1905,Heidi,Johnson,,Cloud Tech-California,12/24/2020,95372.09,-8983065030,Excellent,False
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1906,David,Johnson,30,HR-New York,8/20/2020,95432.69,-2198041846,Excellent,True
+,,,,david.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1907,David,Williams,30,HR-California,10/28/2022,97615.87,-2426423641,Average,False
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1908,Bob,Davis,35,HR-Florida,10/23/2022,86867.78,-8131909247,Poor,False
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1909,Eva,Miller,40,Sales-California,11/20/2023,106615.71,-7623039110,Average,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1910,Bob,Williams,30,Finance-Texas,3/11/2022,112856.21,-4281785227,Poor,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1911,Bob,Jones,25,Admin-California,11/28/2023,60356.78,-2305248087,Poor,True
+,,,,david.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1912,David,Jones,,DevOps-Texas,5/3/2022,117870.22,-622072238,Excellent,False
+,,,,charlie.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1913,Charlie,Johnson,40,HR-Florida,2/19/2024,95127.91,-5947372131,Average,False
+,,,,bob.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1914,Bob,Brown,25,Admin-Illinois,11/18/2021,78818.42,-9016204786,Average,False
+,,,,frank.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1915,Frank,Miller,40,Sales-Nevada,12/21/2022,108933.55,-6886878598,Poor,True
+,,,,eva.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1916,Eva,Johnson,,Admin-California,6/4/2024,68200.52,-6486287202,Average,True
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1917,Eva,Brown,25,Admin-California,7/22/2022,116934.97,-1954196663,Good,True
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1918,Charlie,Brown,,HR-New York,9/14/2024,99567.78,-5057303626,Good,True
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1919,Charlie,Garcia,30,Admin-Texas,10/10/2021,90216.76,-9246320373,Average,True
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1920,Frank,Jones,30,Admin-Illinois,3/12/2020,96588.73,-7677537259,Average,True
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1921,Charlie,Davis,35,Finance-Illinois,12/28/2022,71109.18,-3214505765,Poor,True
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1922,Grace,Smith,40,Admin-Florida,11/15/2020,50300.6,-1945887070,Good,False
+,,,,frank.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1923,Frank,Davis,35,Finance-California,9/27/2023,60295.84,-5534820127,Good,False
+,,,,heidi.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1924,Heidi,Smith,35,DevOps-Texas,9/7/2022,113012.21,-4008385075,Excellent,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1925,Bob,Williams,35,Cloud Tech-Florida,9/18/2024,65425.54,-5975954507,Poor,True
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1926,Frank,Jones,25,Sales-Nevada,4/9/2023,86850.37,-9177680897,Excellent,True
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1927,Eva,Brown,30,Cloud Tech-Texas,10/5/2024,81182.07,-1265742230,Good,True
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1928,Bob,Miller,,Finance-New York,10/12/2021,92222.03,-9646300401,Poor,True
+,,,,alice.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1929,Alice,Smith,35,Finance-New York,10/14/2024,79934.83,-3693626893,Average,True
+,,,,alice.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1930,Alice,Davis,35,HR-California,7/1/2022,111201.12,-3012047136,Poor,False
+,,,,heidi.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1931,Heidi,Brown,40,Finance-California,7/8/2024,100960.05,-2711759573,Average,False
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1932,Grace,Smith,30,Sales-Illinois,10/21/2020,64544.87,-9885582983,Average,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1933,Frank,Smith,25,Sales-Florida,1/14/2020,78662.24,-9330674583,Poor,True
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1934,Grace,Garcia,30,Sales-Florida,3/9/2023,102867.06,-7609441282,Average,True
+,,,,charlie.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1935,Charlie,Smith,40,HR-Illinois,3/27/2020,107595.95,-3372188565,Excellent,True
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1936,Eva,Miller,40,Sales-Nevada,4/4/2021,,-6954132970,Good,False
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1937,Eva,Jones,35,DevOps-Nevada,9/11/2020,95766.91,-5066626704,Average,True
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1938,Grace,Miller,30,Finance-Nevada,5/16/2021,51990.98,-5143776935,Excellent,True
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1939,Heidi,Johnson,25,Sales-Nevada,4/5/2023,83634.01,-6343925294,Average,True
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1940,Eva,Brown,40,DevOps-Texas,11/15/2022,,-9611110285,Good,True
+,,,,eva.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1941,Eva,Jones,30,Sales-Texas,10/16/2021,82273.08,-7120072023,Excellent,False
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1942,Frank,Garcia,30,Cloud Tech-California,5/9/2022,94537.3,-5591024509,Good,True
+,,,,alice.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1943,Alice,Jones,35,HR-Illinois,6/6/2020,85970.65,-9109032670,Good,True
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1944,Charlie,Jones,25,Sales-New York,10/22/2021,111071.02,-4949819420,Excellent,False
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1945,Eva,Davis,35,DevOps-Nevada,1/12/2022,56708.34,-7942817933,Excellent,False
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1946,Charlie,Jones,25,Admin-Illinois,2/2/2022,104516.55,-652775843,Excellent,False
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1947,Charlie,Garcia,25,Admin-New York,3/28/2021,108210.15,-6634533721,Poor,True
+,,,,bob.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1948,Bob,Miller,40,Finance-Texas,8/3/2024,,-109121721,Excellent,True
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1949,Frank,Jones,35,DevOps-California,7/31/2024,80935.65,-1455937660,Excellent,False
+,,,,frank.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1950,Frank,Williams,30,DevOps-California,3/4/2024,107020.19,-8943705262,Excellent,False
+,,,,charlie.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1951,Charlie,Brown,30,HR-New York,9/23/2020,118677.67,-5100462775,Excellent,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1952,Bob,Jones,25,Cloud Tech-Florida,3/28/2020,63744.57,-5725659201,Average,False
+,,,,alice.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1953,Alice,Brown,40,Cloud Tech-California,5/15/2020,,-4617520237,Poor,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1954,Bob,Williams,25,Sales-New York,2/13/2021,62934.73,-9743260054,Good,False
+,,,,bob.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1955,Bob,Williams,30,DevOps-California,12/13/2021,74654.23,-9550178331,Excellent,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1956,David,Brown,,Sales-Texas,8/5/2024,,-5848689992,Average,True
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1957,David,Smith,30,HR-New York,1/9/2020,118150.59,-6079848703,Average,True
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1958,David,Johnson,,DevOps-Florida,11/30/2023,91256.64,-5069176798,Average,False
+,,,,bob.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1959,Bob,Davis,30,HR-Florida,3/14/2021,85997.57,-3593744038,Good,False
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1960,Frank,Smith,25,Finance-Texas,10/5/2020,84707.12,-4640830372,Excellent,False
+,,,,eva.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1961,Eva,Smith,,DevOps-Texas,11/2/2021,84559.9,-6060148859,Poor,False
+,,,,heidi.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1962,Heidi,Miller,,DevOps-California,9/18/2024,81076.91,-8490793883,Poor,False
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1963,Eva,Davis,40,Admin-Texas,10/22/2023,,-1368528305,Average,False
+,,,,heidi.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1964,Heidi,Davis,25,Finance-Florida,9/10/2023,97356.31,-1537012423,Good,True
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1965,Grace,Smith,40,DevOps-Illinois,2/27/2024,114770.32,-4626325143,Good,True
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1966,Bob,Jones,35,Admin-California,5/3/2023,109082.07,-8811210313,Good,False
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1967,David,Miller,40,DevOps-Florida,4/15/2024,99944.57,-2175188780,Poor,True
+,,,,eva.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1968,Eva,Miller,40,HR-Florida,5/20/2023,116509.72,-7941515262,Average,False
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1969,Eva,Williams,30,Finance-Texas,5/28/2021,84253.9,-8409112251,Excellent,True
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1970,Charlie,Garcia,25,Cloud Tech-Nevada,8/27/2024,54776.01,-8837505660,Poor,False
+,,,,charlie.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1971,Charlie,Davis,40,Sales-Nevada,11/8/2020,71192.68,-8632397912,Average,False
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1972,Bob,Smith,,Finance-Florida,8/24/2021,96346.53,-7876553006,Average,True
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1973,Eva,Williams,,HR-Illinois,2/6/2020,116680.63,-3095055604,Excellent,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1974,Grace,Brown,25,Finance-Florida,10/12/2024,76343.56,-7121988191,Excellent,False
+,,,,alice.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1975,Alice,Johnson,30,Sales-Nevada,12/16/2024,99424.14,-7788519052,Excellent,False
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1976,Charlie,Garcia,35,DevOps-Florida,4/13/2024,57656.74,-4864010423,Good,True
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1977,Heidi,Garcia,40,Sales-New York,4/24/2020,77396.94,-6245618516,Excellent,True
+,,,,grace.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1978,Grace,Garcia,,DevOps-California,10/18/2021,54299.68,-4460045211,Average,False
+,,,,charlie.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1979,Charlie,Miller,35,HR-Nevada,2/25/2020,103563.58,-8991511454,Excellent,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1980,Grace,Brown,25,Finance-California,4/23/2022,74588.85,-1293913043,Average,False
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1981,David,Garcia,30,DevOps-California,6/22/2020,113727.23,-8818984840,Poor,False
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1982,Eva,Brown,25,HR-New York,1/7/2023,72828.18,-6046154020,Good,False
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1983,Grace,Jones,,Sales-Florida,2/11/2020,98717.09,-1901707567,Poor,False
+,,,,frank.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1984,Frank,Garcia,40,Sales-Florida,3/18/2023,56840.8,-1429831521,Poor,True
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1985,David,Johnson,35,Finance-Illinois,11/26/2021,61663.91,-9107322835,Average,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1986,Grace,Brown,30,Finance-Nevada,9/17/2024,109523.4,-849378305,Poor,True
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1987,Eva,Brown,25,HR-Illinois,7/5/2024,65812.02,-3963845268,Average,True
+,,,,bob.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1988,Bob,Johnson,,Cloud Tech-Illinois,7/13/2021,54708.88,-6944391648,Excellent,True
+,,,,heidi.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1989,Heidi,Garcia,40,Admin-California,8/27/2023,107661.73,-7016934291,Excellent,True
+,,,,eva.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1990,Eva,Johnson,40,DevOps-Illinois,2/13/2021,79002,-9132033015,Average,True
+,,,,heidi.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP1991,Heidi,Brown,,Admin-Texas,12/11/2023,86135.69,-2341903105,Excellent,False
+,,,,heidi.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1992,Heidi,Johnson,30,DevOps-Nevada,7/2/2021,115601.4,-1537221555,Good,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1993,Grace,Brown,,DevOps-Nevada,12/5/2022,64045.36,-6847323652,Poor,True
+,,,,david.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1994,David,Brown,30,DevOps-Nevada,9/24/2024,80477.21,-3774604066,Good,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1995,Bob,Jones,30,Finance-California,8/16/2023,61240.9,-2007843613,Poor,True
+,,,,david.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1996,David,Smith,40,Admin-Texas,1/28/2021,51939.29,-2442607818,Excellent,True
+,,,,eva.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1997,Eva,Brown,40,Finance-Illinois,5/14/2022,95284.54,-7543734763,Good,False
+,,,,charlie.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP1998,Charlie,Garcia,35,Admin-Texas,6/5/2024,106247.67,-2737203762,Excellent,True
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP1999,Charlie,Williams,25,DevOps-Florida,4/23/2020,110170.88,-8821458413,Poor,True
+,,,,charlie.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP2000,Charlie,Miller,25,HR-Nevada,6/10/2024,52615.44,-8460191343,Average,True
+,,,,eva.davis@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP2001,Eva,Davis,30,DevOps-Illinois,4/18/2020,82547.26,-3899827801,Average,False
+,,,,bob.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP2002,Bob,Smith,35,Finance-Illinois,6/29/2020,63049.22,-586950731,Good,True
+,,,,frank.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP2003,Frank,Smith,35,HR-California,2/15/2023,115229.12,-1464493698,Excellent,True
+,,,,grace.smith@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP2004,Grace,Smith,25,DevOps-Illinois,6/15/2023,60687.63,-9516793349,Excellent,False
+,,,,frank.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP2005,Frank,Jones,30,Finance-Illinois,3/19/2022,67492.73,-5573857367,Good,True
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP2006,Grace,Brown,,HR-Illinois,10/25/2023,77821.79,-119236036,Average,False
+,,,,charlie.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP2007,Charlie,Jones,35,DevOps-Texas,7/14/2022,69146.95,-6811872332,Poor,False
+,,,,grace.brown@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP2008,Grace,Brown,35,Admin-Nevada,3/12/2022,90224.82,-5104096148,Good,True
+,,,,david.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP2009,David,Garcia,,Finance-Illinois,6/11/2024,62603.98,-7315391148,Poor,False
+,,,,bob.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP2010,Bob,Jones,35,Sales-Nevada,6/10/2024,71148.27,-8307482072,Average,False
+,,,,david.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP2011,David,Jones,40,Admin-California,9/21/2022,52031.74,-6511893939,Excellent,True
+,,,,grace.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP2012,Grace,Miller,35,DevOps-Florida,4/15/2023,,-6557820189,Average,False
+,,,,eva.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP2013,Eva,Williams,,HR-Illinois,2/6/2020,116680.63,-4322302332,Good,False
+,,,,grace.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP2014,Grace,Jones,30,Finance-Nevada,5/16/2021,51990.98,-2470739200,Excellent,True
+,,,,david.miller@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP2015,David,Miller,30,HR-California,8/19/2023,,-3546212759,Good,True
+,,,,david.johnson@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP2016,David,Johnson,30,Cloud Tech-Texas,11/7/2021,100215.06,-2508261122,Good,True
+,,,,charlie.williams@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Active,,EMP2017,Charlie,Williams,40,Finance-New York,10/4/2023,114587.11,-1261632487,Average,False
+,,,,alice.garcia@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Inactive,,EMP2018,Alice,Garcia,30,HR-Florida,12/16/2024,71318.79,-8995729892,Good,True
+,,,,heidi.jones@example.com,,,,Messy_Employee_dataset_clean.csv,,,,,,,,,Pending,,EMP2019,Heidi,Jones,30,DevOps-Illinois,2/22/2021,77764.24,-7629745492,Average,False

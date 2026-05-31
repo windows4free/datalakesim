@@ -1,0 +1,31 @@
+id,nombre,departamento,salario,email,telefono,fecha_ingreso,activo
+1,Carlos Mendoza,Ventas,45000.0,carlos.mendoza@empresa.com,9999-1234,2020-03-15,1.0
+2,Ana Torres,Recursos Humanos,52000.0,ana.torres@empresa.com,9999-5678,2019-07-01,1.0
+3,Luis Garcia,TI,,luis.garcia@empresa.com,N/A,2021-01-10,1.0
+4,Maria Lopez,Ventas,48000.0,N/A,9999-2222,2022-05-20,0.0
+5,Carlos Mendoza,Ventas,45000.0,carlos.mendoza@empresa.com,9999-1234,2020-03-15,1.0
+6,N/A,Contabilidad,39000.0,sin.nombre@empresa.com,9999-3333,2023-02-14,1.0
+7,Pedro Castillo,TI,61000.0,pedro.castillo@empresa.com,,2018-11-30,1.0
+8,Sofia Ramirez,Marketing,47000.0,sofia.ramirez@empresa.com,9999-4444,N/A,1.0
+9,Jorge Herrera,Ventas,43000.0,jorge.herrera@empresa.com,9999-5555,2021-08-05,0.0
+10,Elena Rios,,55000.0,elena.rios@empresa.com,9999-6666,2020-12-01,1.0
+11,Roberto Silva,Contabilidad,41000.0,N/A,N/A,2022-09-18,1.0
+12,Carmen Diaz,Marketing,49000.0,carmen.diaz@empresa.com,9999-7777,2019-04-22,1.0
+13,Miguel Torres,TI,63000.0,miguel.torres@empresa.com,9999-8888,2017-06-15,1.0
+14,Laura Vega,Recursos Humanos,,,9999-9999,2023-01-09,1.0
+15,Ana Torres,Recursos Humanos,52000.0,ana.torres@empresa.com,9999-5678,2019-07-01,1.0
+16,Diego Morales,Ventas,44000.0,diego.morales@empresa.com,N/A,2022-03-30,0.0
+17,,,,,,,
+18,Patricia Fuentes,Contabilidad,38000.0,patricia.fuentes@empresa.com,9999-1111,2021-11-11,1.0
+19,Ricardo Blanco,TI,67000.0,ricardo.blanco@empresa.com,,2016-09-01,1.0
+20,Gabriela Soto,Marketing,46000.0,N/A,9999-2020,2023-06-15,1.0
+21,Pedro Castillo,TI,61000.0,pedro.castillo@empresa.com,,2018-11-30,1.0
+22,Fernando Luna,Ventas,42000.0,fernando.luna@empresa.com,9999-2222,N/A,0.0
+23,Valeria Castro,Recursos Humanos,53000.0,valeria.castro@empresa.com,9999-2323,2020-05-17,1.0
+24,Andres Paredes,,59000.0,,9999-2424,2019-10-08,1.0
+25,Monica Reyes,Marketing,,monica.reyes@empresa.com,N/A,2022-07-25,1.0
+26,Carlos Mendoza,Ventas,45000.0,carlos.mendoza@empresa.com,9999-1234,2020-03-15,1.0
+27,Hector Vargas,Contabilidad,40000.0,hector.vargas@empresa.com,9999-2727,2021-04-03,0.0
+28,Isabel Medina,TI,62000.0,N/A,,2018-02-20,1.0
+29,,Ventas,43500.0,sin.nombre2@empresa.com,9999-2929,2023-03-12,1.0
+30,Claudia Nunez,Recursos Humanos,51000.0,claudia.nunez@empresa.com,9999-3030,,1.0
